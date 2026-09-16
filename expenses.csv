@@ -1,0 +1,1001 @@
+transaction_id,date,category,description,amount,payment_method,month,day_of_week,day_type
+TXN100118,2025-09-22,Miscellaneous,Gift,4.21,UPI,2025-09,Monday,Weekday
+TXN100071,2025-09-22,Shopping,Electronics,32.9,Cash,2025-09,Monday,Weekday
+TXN100450,2025-09-23,Bills & Utilities,Phone,109.96,Debit Card,2025-09,Tuesday,Weekday
+TXN100279,2025-09-23,Groceries,Supermarket,60.18,Credit Card,2025-09,Tuesday,Weekday
+TXN100010,2025-09-23,Shopping,Clothing,72.92,Net Banking,2025-09,Tuesday,Weekday
+TXN100645,2025-09-24,Food & Dining,Restaurant,18.1,UPI,2025-09,Wednesday,Weekday
+TXN100241,2025-09-24,Healthcare,Pharmacy,55.76,Debit Card,2025-09,Wednesday,Weekday
+TXN100232,2025-09-24,Shopping,Electronics,91.45,Credit Card,2025-09,Wednesday,Weekday
+TXN100854,2025-09-24,Miscellaneous,Donation,25.54,Cash,2025-09,Wednesday,Weekday
+TXN100356,2025-09-24,Personal Care,Gym,29.32,Net Banking,2025-09,Wednesday,Weekday
+TXN100689,2025-09-24,Shopping,Electronics,37.21,Credit Card,2025-09,Wednesday,Weekday
+TXN100932,2025-09-25,Entertainment,Movie,78.3,Cash,2025-09,Thursday,Weekday
+TXN100882,2025-09-25,Groceries,Supermarket,29.92,UPI,2025-09,Thursday,Weekday
+TXN100601,2025-09-26,Shopping,Clothing,44.68,Credit Card,2025-09,Friday,Weekday
+TXN100542,2025-09-26,Entertainment,Streaming,47.43,Cash,2025-09,Friday,Weekday
+TXN100112,2025-09-26,Food & Dining,Lunch,42.69,Net Banking,2025-09,Friday,Weekday
+TXN100813,2025-09-26,Food & Dining,Fast food,37.81,Cash,2025-09,Friday,Weekday
+TXN100374,2025-09-26,Entertainment,Games,21.23,UPI,2025-09,Friday,Weekday
+TXN100964,2025-09-27,Entertainment,Movie,21.46,Credit Card,2025-09,Saturday,Weekend
+TXN100380,2025-09-28,Groceries,Supermarket,40.49,UPI,2025-09,Sunday,Weekend
+TXN100442,2025-09-28,Food & Dining,Fast food,47.84,Net Banking,2025-09,Sunday,Weekend
+TXN100929,2025-09-28,Bills & Utilities,Internet,73.24,Credit Card,2025-09,Sunday,Weekend
+TXN100129,2025-09-29,Food & Dining,Lunch,55.48,Credit Card,2025-09,Monday,Weekday
+TXN100462,2025-09-29,Travel,Hotel,108.98,Debit Card,2025-09,Monday,Weekday
+TXN100910,2025-09-29,Transportation,Fuel,18.39,Debit Card,2025-09,Monday,Weekday
+TXN100933,2025-09-29,Transportation,Fuel,26.91,Credit Card,2025-09,Monday,Weekday
+TXN100044,2025-09-30,Transportation,Metro,23.16,UPI,2025-09,Tuesday,Weekday
+TXN100640,2025-10-01,Shopping,Shoes,94.81,UPI,2025-10,Wednesday,Weekday
+TXN100703,2025-10-02,Food & Dining,Fast food,20.37,Credit Card,2025-10,Thursday,Weekday
+TXN100917,2025-10-02,Food & Dining,Fast food,24.33,Credit Card,2025-10,Thursday,Weekday
+TXN100765,2025-10-02,Entertainment,Games,17.86,Credit Card,2025-10,Thursday,Weekday
+TXN100945,2025-10-02,Healthcare,Pharmacy,3.03,Credit Card,2025-10,Thursday,Weekday
+TXN100958,2025-10-03,Miscellaneous,Donation,46.13,Credit Card,2025-10,Friday,Weekday
+TXN100254,2025-10-03,Food & Dining,Restaurant,37.27,Debit Card,2025-10,Friday,Weekday
+TXN100417,2025-10-03,Entertainment,Streaming,42.35,UPI,2025-10,Friday,Weekday
+TXN100942,2025-10-03,Miscellaneous,Other,13.13,Debit Card,2025-10,Friday,Weekday
+TXN100364,2025-10-03,Personal Care,Spa,41.64,Debit Card,2025-10,Friday,Weekday
+TXN100355,2025-10-03,Transportation,Metro,3.1,Net Banking,2025-10,Friday,Weekday
+TXN100218,2025-10-03,Groceries,Supermarket,91.41,UPI,2025-10,Friday,Weekday
+TXN100886,2025-10-03,Food & Dining,Restaurant,35.26,Debit Card,2025-10,Friday,Weekday
+TXN100383,2025-10-04,Food & Dining,Coffee,40.14,Debit Card,2025-10,Saturday,Weekend
+TXN100795,2025-10-04,Entertainment,Movie,32.51,UPI,2025-10,Saturday,Weekend
+TXN100558,2025-10-04,Bills & Utilities,Phone,141.32,UPI,2025-10,Saturday,Weekend
+TXN100577,2025-10-04,Shopping,Clothing,26.65,Credit Card,2025-10,Saturday,Weekend
+TXN100778,2025-10-04,Miscellaneous,Other,23.03,Debit Card,2025-10,Saturday,Weekend
+TXN100298,2025-10-05,Miscellaneous,Gift,38.1,Credit Card,2025-10,Sunday,Weekend
+TXN100366,2025-10-05,Food & Dining,Coffee,9.33,Credit Card,2025-10,Sunday,Weekend
+TXN100136,2025-10-05,Groceries,Supermarket,61.2,Cash,2025-10,Sunday,Weekend
+TXN100935,2025-10-07,Groceries,Dairy,84.17,Credit Card,2025-10,Tuesday,Weekday
+TXN100077,2025-10-07,Food & Dining,Fast food,36.34,Net Banking,2025-10,Tuesday,Weekday
+TXN100578,2025-10-07,Transportation,Taxi,18.92,Credit Card,2025-10,Tuesday,Weekday
+TXN100908,2025-10-07,Miscellaneous,Donation,61.92,Debit Card,2025-10,Tuesday,Weekday
+TXN100217,2025-10-08,Miscellaneous,Other,23.81,Debit Card,2025-10,Wednesday,Weekday
+TXN100897,2025-10-09,Groceries,Dairy,106.23,Cash,2025-10,Thursday,Weekday
+TXN100406,2025-10-09,Groceries,Dairy,91.17,Debit Card,2025-10,Thursday,Weekday
+TXN100747,2025-10-10,Shopping,Electronics,2.0,Cash,2025-10,Friday,Weekday
+TXN100088,2025-10-10,Transportation,Taxi,12.29,Debit Card,2025-10,Friday,Weekday
+TXN100705,2025-10-10,Bills & Utilities,Phone,224.42,UPI,2025-10,Friday,Weekday
+TXN100198,2025-10-11,Groceries,Vegetables,117.4,UPI,2025-10,Saturday,Weekend
+TXN100372,2025-10-11,Shopping,Clothing,71.33,Cash,2025-10,Saturday,Weekend
+TXN100293,2025-10-11,Shopping,Electronics,49.01,UPI,2025-10,Saturday,Weekend
+TXN100916,2025-10-11,Bills & Utilities,Phone,82.46,Debit Card,2025-10,Saturday,Weekend
+TXN100418,2025-10-11,Transportation,Metro,10.46,Debit Card,2025-10,Saturday,Weekend
+TXN100989,2025-10-12,Shopping,Clothing,17.35,Cash,2025-10,Sunday,Weekend
+TXN100536,2025-10-12,Miscellaneous,Other,19.48,Cash,2025-10,Sunday,Weekend
+TXN100330,2025-10-12,Food & Dining,Fast food,27.57,Credit Card,2025-10,Sunday,Weekend
+TXN100980,2025-10-12,Entertainment,Games,38.69,Credit Card,2025-10,Sunday,Weekend
+TXN100870,2025-10-12,Healthcare,Doctor,53.61,Credit Card,2025-10,Sunday,Weekend
+TXN100408,2025-10-13,Groceries,Supermarket,63.8,UPI,2025-10,Monday,Weekday
+TXN100050,2025-10-13,Food & Dining,Coffee,23.84,Net Banking,2025-10,Monday,Weekday
+TXN100888,2025-10-13,Food & Dining,Lunch,15.14,Credit Card,2025-10,Monday,Weekday
+TXN100653,2025-10-13,Bills & Utilities,Electricity,76.86,Cash,2025-10,Monday,Weekday
+TXN100573,2025-10-15,Entertainment,Movie,18.67,Debit Card,2025-10,Wednesday,Weekday
+TXN100586,2025-10-15,Entertainment,Games,63.24,UPI,2025-10,Wednesday,Weekday
+TXN100420,2025-10-15,Food & Dining,Coffee,30.91,Debit Card,2025-10,Wednesday,Weekday
+TXN100982,2025-10-16,Transportation,Uber,23.36,UPI,2025-10,Thursday,Weekday
+TXN100370,2025-10-16,Bills & Utilities,Electricity,116.97,Credit Card,2025-10,Thursday,Weekday
+TXN100287,2025-10-16,Rent,Monthly rent,797.7,Credit Card,2025-10,Thursday,Weekday
+TXN100812,2025-10-16,Personal Care,Spa,13.73,Net Banking,2025-10,Thursday,Weekday
+TXN100960,2025-10-16,Food & Dining,Coffee,39.67,Debit Card,2025-10,Thursday,Weekday
+TXN100915,2025-10-17,Transportation,Uber,2.0,Debit Card,2025-10,Friday,Weekday
+TXN100350,2025-10-18,Bills & Utilities,Phone,151.56,Debit Card,2025-10,Saturday,Weekend
+TXN100051,2025-10-18,Entertainment,Streaming,54.37,Debit Card,2025-10,Saturday,Weekend
+TXN100269,2025-10-18,Miscellaneous,Donation,66.09,Credit Card,2025-10,Saturday,Weekend
+TXN100749,2025-10-19,Groceries,Dairy,84.77,Debit Card,2025-10,Sunday,Weekend
+TXN100448,2025-10-19,Entertainment,Movie,50.09,Debit Card,2025-10,Sunday,Weekend
+TXN100108,2025-10-19,Food & Dining,Restaurant,39.17,Credit Card,2025-10,Sunday,Weekend
+TXN100806,2025-10-19,Education,Tuition,78.86,Credit Card,2025-10,Sunday,Weekend
+TXN100139,2025-10-19,Food & Dining,Restaurant,2.6,UPI,2025-10,Sunday,Weekend
+TXN100203,2025-10-20,Food & Dining,Fast food,22.24,Debit Card,2025-10,Monday,Weekday
+TXN100952,2025-10-20,Transportation,Uber,13.72,Net Banking,2025-10,Monday,Weekday
+TXN100661,2025-10-20,Transportation,Fuel,21.61,Credit Card,2025-10,Monday,Weekday
+TXN100261,2025-10-20,Food & Dining,Coffee,30.66,Credit Card,2025-10,Monday,Weekday
+TXN100175,2025-10-20,Food & Dining,Restaurant,44.53,Net Banking,2025-10,Monday,Weekday
+TXN100941,2025-10-21,Bills & Utilities,Electricity,6.61,Cash,2025-10,Tuesday,Weekday
+TXN100937,2025-10-21,Food & Dining,Fast food,28.91,UPI,2025-10,Tuesday,Weekday
+TXN100772,2025-10-22,Transportation,Uber,28.52,Debit Card,2025-10,Wednesday,Weekday
+TXN100647,2025-10-23,Transportation,Metro,19.93,Credit Card,2025-10,Thursday,Weekday
+TXN100787,2025-10-23,Entertainment,Games,43.9,UPI,2025-10,Thursday,Weekday
+TXN100049,2025-10-24,Groceries,Dairy,57.96,Credit Card,2025-10,Friday,Weekday
+TXN100119,2025-10-25,Transportation,Metro,20.35,Cash,2025-10,Saturday,Weekend
+TXN100291,2025-10-26,Food & Dining,Coffee,92.83,Cash,2025-10,Sunday,Weekend
+TXN100061,2025-10-27,Entertainment,Movie,6.28,Cash,2025-10,Monday,Weekday
+TXN100770,2025-10-27,Food & Dining,Lunch,19.31,Cash,2025-10,Monday,Weekday
+TXN100212,2025-10-27,Groceries,Supermarket,88.51,Debit Card,2025-10,Monday,Weekday
+TXN100196,2025-10-27,Bills & Utilities,Electricity,146.37,Credit Card,2025-10,Monday,Weekday
+TXN100895,2025-10-27,Miscellaneous,Donation,21.82,Debit Card,2025-10,Monday,Weekday
+TXN100823,2025-10-28,Food & Dining,Restaurant,26.4,Debit Card,2025-10,Tuesday,Weekday
+TXN100151,2025-10-29,Groceries,Dairy,70.8,Net Banking,2025-10,Wednesday,Weekday
+TXN100155,2025-10-29,Shopping,Electronics,109.04,Cash,2025-10,Wednesday,Weekday
+TXN100780,2025-10-29,Healthcare,Pharmacy,147.09,Cash,2025-10,Wednesday,Weekday
+TXN100990,2025-10-30,Entertainment,Streaming,59.94,Credit Card,2025-10,Thursday,Weekday
+TXN100769,2025-10-30,Transportation,Metro,20.85,Debit Card,2025-10,Thursday,Weekday
+TXN100263,2025-10-30,Groceries,Supermarket,43.25,Debit Card,2025-10,Thursday,Weekday
+TXN100514,2025-10-30,Rent,Monthly rent,796.94,Net Banking,2025-10,Thursday,Weekday
+TXN100226,2025-10-30,Transportation,Uber,29.47,UPI,2025-10,Thursday,Weekday
+TXN100821,2025-10-31,Transportation,Uber,27.72,Net Banking,2025-10,Friday,Weekday
+TXN100461,2025-10-31,Shopping,Clothing,134.29,Cash,2025-10,Friday,Weekday
+TXN100576,2025-11-01,Shopping,Shoes,85.84,Credit Card,2025-11,Saturday,Weekend
+TXN100512,2025-11-01,Personal Care,Gym,64.53,UPI,2025-11,Saturday,Weekend
+TXN100887,2025-11-02,Transportation,Taxi,14.45,Cash,2025-11,Sunday,Weekend
+TXN100022,2025-11-02,Shopping,Clothing,79.22,Credit Card,2025-11,Sunday,Weekend
+TXN100387,2025-11-02,Entertainment,Movie,15.96,Cash,2025-11,Sunday,Weekend
+TXN100164,2025-11-02,Food & Dining,Lunch,42.43,UPI,2025-11,Sunday,Weekend
+TXN100866,2025-11-03,Healthcare,Doctor,47.54,Cash,2025-11,Monday,Weekday
+TXN100329,2025-11-03,Entertainment,Streaming,2.4,UPI,2025-11,Monday,Weekday
+TXN100901,2025-11-04,Bills & Utilities,Electricity,107.94,UPI,2025-11,Tuesday,Weekday
+TXN100839,2025-11-04,Healthcare,Doctor,52.18,Credit Card,2025-11,Tuesday,Weekday
+TXN100837,2025-11-04,Food & Dining,Fast food,32.49,UPI,2025-11,Tuesday,Weekday
+TXN100102,2025-11-04,Miscellaneous,Donation,17.42,Net Banking,2025-11,Tuesday,Weekday
+TXN100940,2025-11-04,Food & Dining,Fast food,31.54,Net Banking,2025-11,Tuesday,Weekday
+TXN100603,2025-11-06,Food & Dining,Coffee,13.21,Net Banking,2025-11,Thursday,Weekday
+TXN100272,2025-11-06,Shopping,Clothing,2.95,Credit Card,2025-11,Thursday,Weekday
+TXN100699,2025-11-06,Transportation,Metro,3.36,Cash,2025-11,Thursday,Weekday
+TXN100584,2025-11-06,Food & Dining,Fast food,27.65,Debit Card,2025-11,Thursday,Weekday
+TXN100973,2025-11-06,Food & Dining,Fast food,25.09,Net Banking,2025-11,Thursday,Weekday
+TXN100494,2025-11-07,Food & Dining,Coffee,10.2,Debit Card,2025-11,Friday,Weekday
+TXN100678,2025-11-07,Food & Dining,Coffee,10.4,Debit Card,2025-11,Friday,Weekday
+TXN100104,2025-11-07,Groceries,Supermarket,67.04,Debit Card,2025-11,Friday,Weekday
+TXN100928,2025-11-07,Groceries,Dairy,12.06,Credit Card,2025-11,Friday,Weekday
+TXN100134,2025-11-07,Groceries,Supermarket,105.54,Debit Card,2025-11,Friday,Weekday
+TXN100669,2025-11-08,Groceries,Dairy,19.82,Credit Card,2025-11,Saturday,Weekend
+TXN100522,2025-11-08,Food & Dining,Lunch,27.18,Debit Card,2025-11,Saturday,Weekend
+TXN100608,2025-11-08,Shopping,Shoes,61.24,Debit Card,2025-11,Saturday,Weekend
+TXN100184,2025-11-09,Transportation,Fuel,6.29,Credit Card,2025-11,Sunday,Weekend
+TXN100398,2025-11-09,Transportation,Uber,12.89,Debit Card,2025-11,Sunday,Weekend
+TXN100658,2025-11-10,Shopping,Electronics,15.34,Credit Card,2025-11,Monday,Weekday
+TXN100642,2025-11-11,Transportation,Fuel,25.82,UPI,2025-11,Tuesday,Weekday
+TXN100131,2025-11-11,Food & Dining,Restaurant,25.23,Credit Card,2025-11,Tuesday,Weekday
+TXN100535,2025-11-11,Food & Dining,Restaurant,40.3,Credit Card,2025-11,Tuesday,Weekday
+TXN100089,2025-11-12,Groceries,Dairy,61.61,Cash,2025-11,Wednesday,Weekday
+TXN100561,2025-11-13,Shopping,Clothing,10.43,Cash,2025-11,Thursday,Weekday
+TXN100656,2025-11-13,Transportation,Uber,27.5,Credit Card,2025-11,Thursday,Weekday
+TXN100127,2025-11-13,Transportation,Taxi,14.44,Debit Card,2025-11,Thursday,Weekday
+TXN100564,2025-11-13,Healthcare,Doctor,153.61,Net Banking,2025-11,Thursday,Weekday
+TXN100950,2025-11-13,Groceries,Dairy,100.86,Debit Card,2025-11,Thursday,Weekday
+TXN100066,2025-11-13,Transportation,Taxi,14.52,Cash,2025-11,Thursday,Weekday
+TXN100922,2025-11-14,Transportation,Uber,5.35,Debit Card,2025-11,Friday,Weekday
+TXN100065,2025-11-14,Groceries,Supermarket,97.87,Debit Card,2025-11,Friday,Weekday
+TXN100240,2025-11-14,Miscellaneous,Donation,65.51,Net Banking,2025-11,Friday,Weekday
+TXN100907,2025-11-14,Shopping,Clothing,35.24,Cash,2025-11,Friday,Weekday
+TXN100602,2025-11-14,Shopping,Clothing,101.42,Net Banking,2025-11,Friday,Weekday
+TXN100752,2025-11-15,Education,Tuition,108.45,Debit Card,2025-11,Saturday,Weekend
+TXN100590,2025-11-15,Shopping,Shoes,10.44,Debit Card,2025-11,Saturday,Weekend
+TXN100288,2025-11-15,Shopping,Clothing,82.85,Debit Card,2025-11,Saturday,Weekend
+TXN100423,2025-11-15,Entertainment,Streaming,37.8,Debit Card,2025-11,Saturday,Weekend
+TXN100005,2025-11-15,Miscellaneous,Gift,25.9,Cash,2025-11,Saturday,Weekend
+TXN100375,2025-11-16,Transportation,Fuel,14.37,Credit Card,2025-11,Sunday,Weekend
+TXN100524,2025-11-16,Entertainment,Streaming,41.48,Debit Card,2025-11,Sunday,Weekend
+TXN100552,2025-11-17,Entertainment,Games,59.19,Cash,2025-11,Monday,Weekday
+TXN100715,2025-11-17,Healthcare,Lab test,151.4,Credit Card,2025-11,Monday,Weekday
+TXN100662,2025-11-17,Food & Dining,Coffee,31.07,Net Banking,2025-11,Monday,Weekday
+TXN100351,2025-11-18,Transportation,Taxi,2.0,Cash,2025-11,Tuesday,Weekday
+TXN100262,2025-11-18,Food & Dining,Lunch,23.31,Credit Card,2025-11,Tuesday,Weekday
+TXN100685,2025-11-18,Food & Dining,Lunch,34.62,UPI,2025-11,Tuesday,Weekday
+TXN100267,2025-11-18,Travel,Train,161.62,UPI,2025-11,Tuesday,Weekday
+TXN100532,2025-11-19,Miscellaneous,Donation,8.49,Debit Card,2025-11,Wednesday,Weekday
+TXN100452,2025-11-19,Shopping,Electronics,34.16,Credit Card,2025-11,Wednesday,Weekday
+TXN100505,2025-11-19,Shopping,Clothing,29.92,Cash,2025-11,Wednesday,Weekday
+TXN100004,2025-11-19,Transportation,Taxi,12.49,Credit Card,2025-11,Wednesday,Weekday
+TXN100834,2025-11-20,Food & Dining,Restaurant,27.86,Debit Card,2025-11,Thursday,Weekday
+TXN100693,2025-11-21,Transportation,Metro,2.0,UPI,2025-11,Friday,Weekday
+TXN100235,2025-11-21,Transportation,Metro,12.25,Credit Card,2025-11,Friday,Weekday
+TXN100431,2025-11-21,Miscellaneous,Other,51.89,Cash,2025-11,Friday,Weekday
+TXN100025,2025-11-22,Groceries,Vegetables,104.71,Debit Card,2025-11,Saturday,Weekend
+TXN100710,2025-11-22,Entertainment,Games,44.32,UPI,2025-11,Saturday,Weekend
+TXN100148,2025-11-22,Personal Care,Spa,80.87,UPI,2025-11,Saturday,Weekend
+TXN100865,2025-11-23,Food & Dining,Lunch,57.85,Credit Card,2025-11,Sunday,Weekend
+TXN100738,2025-11-23,Transportation,Fuel,24.35,Debit Card,2025-11,Sunday,Weekend
+TXN100379,2025-11-23,Entertainment,Games,6.89,Credit Card,2025-11,Sunday,Weekend
+TXN100975,2025-11-24,Entertainment,Games,14.97,Credit Card,2025-11,Monday,Weekday
+TXN100475,2025-11-26,Transportation,Metro,16.36,Cash,2025-11,Wednesday,Weekday
+TXN100953,2025-11-27,Transportation,Fuel,9.39,Credit Card,2025-11,Thursday,Weekday
+TXN100624,2025-11-28,Groceries,Dairy,139.29,Credit Card,2025-11,Friday,Weekday
+TXN100878,2025-11-28,Miscellaneous,Gift,45.13,Debit Card,2025-11,Friday,Weekday
+TXN100090,2025-11-29,Transportation,Metro,27.05,Net Banking,2025-11,Saturday,Weekend
+TXN100156,2025-11-29,Healthcare,Lab test,100.18,Cash,2025-11,Saturday,Weekend
+TXN100434,2025-11-29,Education,Books,191.09,Net Banking,2025-11,Saturday,Weekend
+TXN100819,2025-11-30,Personal Care,Spa,67.44,Cash,2025-11,Sunday,Weekend
+TXN100607,2025-11-30,Food & Dining,Lunch,36.1,Net Banking,2025-11,Sunday,Weekend
+TXN100097,2025-11-30,Entertainment,Games,48.77,UPI,2025-11,Sunday,Weekend
+TXN100145,2025-11-30,Food & Dining,Lunch,43.47,UPI,2025-11,Sunday,Weekend
+TXN100413,2025-12-02,Food & Dining,Restaurant,40.26,UPI,2025-12,Tuesday,Weekday
+TXN100556,2025-12-02,Food & Dining,Lunch,3.4,Cash,2025-12,Tuesday,Weekday
+TXN100673,2025-12-03,Healthcare,Pharmacy,7.41,UPI,2025-12,Wednesday,Weekday
+TXN100712,2025-12-03,Groceries,Supermarket,91.16,Debit Card,2025-12,Wednesday,Weekday
+TXN100234,2025-12-03,Food & Dining,Fast food,10.7,Net Banking,2025-12,Wednesday,Weekday
+TXN100998,2025-12-04,Personal Care,Gym,40.31,Credit Card,2025-12,Thursday,Weekday
+TXN100983,2025-12-05,Groceries,Dairy,74.81,Credit Card,2025-12,Friday,Weekday
+TXN100277,2025-12-06,Miscellaneous,Other,41.73,Debit Card,2025-12,Saturday,Weekend
+TXN100863,2025-12-06,Transportation,Metro,25.45,Net Banking,2025-12,Saturday,Weekend
+TXN100811,2025-12-06,Transportation,Fuel,10.69,Net Banking,2025-12,Saturday,Weekend
+TXN100788,2025-12-06,Groceries,Vegetables,92.05,Net Banking,2025-12,Saturday,Weekend
+TXN100073,2025-12-06,Groceries,Dairy,129.54,UPI,2025-12,Saturday,Weekend
+TXN100280,2025-12-07,Food & Dining,Fast food,12.97,Credit Card,2025-12,Sunday,Weekend
+TXN100877,2025-12-07,Miscellaneous,Donation,2.0,Debit Card,2025-12,Sunday,Weekend
+TXN100320,2025-12-07,Transportation,Taxi,18.02,Credit Card,2025-12,Sunday,Weekend
+TXN100159,2025-12-08,Groceries,Supermarket,70.43,UPI,2025-12,Monday,Weekday
+TXN100660,2025-12-09,Food & Dining,Restaurant,35.07,Cash,2025-12,Tuesday,Weekday
+TXN100303,2025-12-10,Shopping,Electronics,49.1,Debit Card,2025-12,Wednesday,Weekday
+TXN100247,2025-12-11,Food & Dining,Restaurant,24.88,Debit Card,2025-12,Thursday,Weekday
+TXN100126,2025-12-11,Personal Care,Salon,5.93,Net Banking,2025-12,Thursday,Weekday
+TXN100200,2025-12-11,Education,Course,227.75,Debit Card,2025-12,Thursday,Weekday
+TXN100516,2025-12-11,Bills & Utilities,Phone,2.62,Debit Card,2025-12,Thursday,Weekday
+TXN100223,2025-12-12,Entertainment,Games,30.73,Debit Card,2025-12,Friday,Weekday
+TXN100718,2025-12-12,Transportation,Metro,12.05,Net Banking,2025-12,Friday,Weekday
+TXN100253,2025-12-12,Healthcare,Pharmacy,39.99,UPI,2025-12,Friday,Weekday
+TXN100117,2025-12-13,Food & Dining,Coffee,38.6,Credit Card,2025-12,Saturday,Weekend
+TXN100154,2025-12-14,Transportation,Fuel,26.06,Debit Card,2025-12,Sunday,Weekend
+TXN100667,2025-12-14,Food & Dining,Coffee,36.13,Credit Card,2025-12,Sunday,Weekend
+TXN100790,2025-12-14,Food & Dining,Lunch,38.27,Credit Card,2025-12,Sunday,Weekend
+TXN100300,2025-12-14,Groceries,Supermarket,69.13,Credit Card,2025-12,Sunday,Weekend
+TXN100511,2025-12-14,Personal Care,Gym,25.62,Credit Card,2025-12,Sunday,Weekend
+TXN100087,2025-12-14,Healthcare,Pharmacy,105.7,Credit Card,2025-12,Sunday,Weekend
+TXN100974,2025-12-15,Shopping,Electronics,50.22,Credit Card,2025-12,Monday,Weekday
+TXN100140,2025-12-16,Transportation,Fuel,31.87,Debit Card,2025-12,Tuesday,Weekday
+TXN100278,2025-12-16,Food & Dining,Coffee,42.75,Credit Card,2025-12,Tuesday,Weekday
+TXN100451,2025-12-16,Transportation,Fuel,13.58,Debit Card,2025-12,Tuesday,Weekday
+TXN100913,2025-12-16,Transportation,Fuel,29.39,Debit Card,2025-12,Tuesday,Weekday
+TXN100816,2025-12-17,Transportation,Taxi,13.56,Credit Card,2025-12,Wednesday,Weekday
+TXN100190,2025-12-17,Miscellaneous,Other,60.56,Credit Card,2025-12,Wednesday,Weekday
+TXN100392,2025-12-17,Bills & Utilities,Phone,101.73,Cash,2025-12,Wednesday,Weekday
+TXN100697,2025-12-17,Healthcare,Lab test,151.99,Debit Card,2025-12,Wednesday,Weekday
+TXN100193,2025-12-18,Entertainment,Streaming,49.26,UPI,2025-12,Thursday,Weekday
+TXN100410,2025-12-18,Transportation,Uber,29.78,Debit Card,2025-12,Thursday,Weekday
+TXN100614,2025-12-18,Entertainment,Movie,41.12,Cash,2025-12,Thursday,Weekday
+TXN100160,2025-12-19,Bills & Utilities,Phone,208.62,Debit Card,2025-12,Friday,Weekday
+TXN100889,2025-12-19,Personal Care,Salon,46.85,Debit Card,2025-12,Friday,Weekday
+TXN100242,2025-12-19,Groceries,Supermarket,54.8,Credit Card,2025-12,Friday,Weekday
+TXN100072,2025-12-19,Bills & Utilities,Internet,138.86,UPI,2025-12,Friday,Weekday
+TXN100867,2025-12-20,Food & Dining,Lunch,18.62,Cash,2025-12,Saturday,Weekend
+TXN100318,2025-12-20,Transportation,Fuel,18.42,Net Banking,2025-12,Saturday,Weekend
+TXN100820,2025-12-21,Personal Care,Spa,45.28,Debit Card,2025-12,Sunday,Weekend
+TXN100620,2025-12-21,Transportation,Taxi,27.45,Debit Card,2025-12,Sunday,Weekend
+TXN100617,2025-12-21,Transportation,Fuel,19.69,Cash,2025-12,Sunday,Weekend
+TXN100682,2025-12-21,Groceries,Supermarket,74.45,Credit Card,2025-12,Sunday,Weekend
+TXN100605,2025-12-23,Shopping,Clothing,7.44,Cash,2025-12,Tuesday,Weekday
+TXN100500,2025-12-23,Shopping,Clothing,37.5,Debit Card,2025-12,Tuesday,Weekday
+TXN100270,2025-12-23,Entertainment,Games,46.4,Debit Card,2025-12,Tuesday,Weekday
+TXN100081,2025-12-23,Education,Books,100.18,Credit Card,2025-12,Tuesday,Weekday
+TXN100275,2025-12-25,Entertainment,Games,27.3,Debit Card,2025-12,Thursday,Weekday
+TXN100905,2025-12-25,Transportation,Uber,42.66,Net Banking,2025-12,Thursday,Weekday
+TXN100023,2025-12-26,Bills & Utilities,Electricity,114.33,Credit Card,2025-12,Friday,Weekday
+TXN100786,2025-12-26,Personal Care,Salon,41.35,UPI,2025-12,Friday,Weekday
+TXN100294,2025-12-26,Groceries,Vegetables,77.51,Debit Card,2025-12,Friday,Weekday
+TXN100037,2025-12-27,Food & Dining,Fast food,36.73,Credit Card,2025-12,Saturday,Weekend
+TXN100946,2025-12-28,Entertainment,Streaming,94.19,Debit Card,2025-12,Sunday,Weekend
+TXN100594,2025-12-28,Groceries,Vegetables,58.79,Debit Card,2025-12,Sunday,Weekend
+TXN100860,2025-12-29,Food & Dining,Coffee,8.82,UPI,2025-12,Monday,Weekday
+TXN100538,2025-12-29,Travel,Hotel,520.19,Debit Card,2025-12,Monday,Weekday
+TXN100376,2025-12-29,Food & Dining,Fast food,14.36,Debit Card,2025-12,Monday,Weekday
+TXN100993,2025-12-29,Groceries,Supermarket,49.09,Debit Card,2025-12,Monday,Weekday
+TXN100519,2025-12-29,Food & Dining,Restaurant,15.28,Credit Card,2025-12,Monday,Weekday
+TXN100971,2025-12-29,Food & Dining,Fast food,25.58,Debit Card,2025-12,Monday,Weekday
+TXN100570,2025-12-30,Personal Care,Gym,37.75,Credit Card,2025-12,Tuesday,Weekday
+TXN100828,2025-12-31,Groceries,Vegetables,94.58,UPI,2025-12,Wednesday,Weekday
+TXN100575,2025-12-31,Shopping,Shoes,58.33,Debit Card,2025-12,Wednesday,Weekday
+TXN100032,2025-12-31,Transportation,Taxi,16.02,Credit Card,2025-12,Wednesday,Weekday
+TXN100615,2025-12-31,Transportation,Metro,25.55,Credit Card,2025-12,Wednesday,Weekday
+TXN100378,2025-12-31,Groceries,Vegetables,108.49,Credit Card,2025-12,Wednesday,Weekday
+TXN100690,2026-01-01,Food & Dining,Fast food,33.14,UPI,2026-01,Thursday,Weekday
+TXN100956,2026-01-01,Healthcare,Doctor,93.43,Credit Card,2026-01,Thursday,Weekday
+TXN100216,2026-01-01,Groceries,Dairy,58.19,Net Banking,2026-01,Thursday,Weekday
+TXN100321,2026-01-01,Shopping,Electronics,34.31,UPI,2026-01,Thursday,Weekday
+TXN100000,2026-01-02,Entertainment,Movie,55.04,Credit Card,2026-01,Friday,Weekday
+TXN100508,2026-01-02,Miscellaneous,Donation,47.2,Cash,2026-01,Friday,Weekday
+TXN100801,2026-01-02,Food & Dining,Restaurant,17.69,Credit Card,2026-01,Friday,Weekday
+TXN100224,2026-01-02,Food & Dining,Lunch,3.92,Debit Card,2026-01,Friday,Weekday
+TXN100414,2026-01-03,Food & Dining,Restaurant,39.1,Debit Card,2026-01,Saturday,Weekend
+TXN100046,2026-01-03,Groceries,Vegetables,85.24,Credit Card,2026-01,Saturday,Weekend
+TXN100595,2026-01-03,Personal Care,Salon,39.15,Debit Card,2026-01,Saturday,Weekend
+TXN100777,2026-01-05,Transportation,Fuel,5.39,Cash,2026-01,Monday,Weekday
+TXN100884,2026-01-05,Entertainment,Games,40.67,Cash,2026-01,Monday,Weekday
+TXN100611,2026-01-06,Transportation,Metro,22.59,Net Banking,2026-01,Tuesday,Weekday
+TXN100881,2026-01-06,Transportation,Fuel,3.83,Debit Card,2026-01,Tuesday,Weekday
+TXN100683,2026-01-06,Groceries,Supermarket,61.41,UPI,2026-01,Tuesday,Weekday
+TXN100569,2026-01-06,Transportation,Fuel,26.26,UPI,2026-01,Tuesday,Weekday
+TXN100307,2026-01-07,Groceries,Vegetables,92.9,Net Banking,2026-01,Wednesday,Weekday
+TXN100474,2026-01-07,Shopping,Clothing,61.52,Debit Card,2026-01,Wednesday,Weekday
+TXN100026,2026-01-07,Food & Dining,Coffee,26.46,Cash,2026-01,Wednesday,Weekday
+TXN100625,2026-01-08,Transportation,Fuel,2.0,Net Banking,2026-01,Thursday,Weekday
+TXN100507,2026-01-08,Groceries,Supermarket,34.59,UPI,2026-01,Thursday,Weekday
+TXN100579,2026-01-08,Entertainment,Movie,47.59,Credit Card,2026-01,Thursday,Weekday
+TXN100927,2026-01-09,Travel,Train,162.8,Cash,2026-01,Friday,Weekday
+TXN100326,2026-01-09,Bills & Utilities,Electricity,120.14,UPI,2026-01,Friday,Weekday
+TXN100585,2026-01-10,Transportation,Metro,15.82,Debit Card,2026-01,Saturday,Weekend
+TXN100142,2026-01-10,Entertainment,Movie,18.54,Credit Card,2026-01,Saturday,Weekend
+TXN100537,2026-01-10,Healthcare,Lab test,134.87,UPI,2026-01,Saturday,Weekend
+TXN100636,2026-01-11,Healthcare,Lab test,62.38,Net Banking,2026-01,Sunday,Weekend
+TXN100774,2026-01-11,Food & Dining,Fast food,29.37,Credit Card,2026-01,Sunday,Weekend
+TXN100416,2026-01-11,Entertainment,Streaming,42.02,UPI,2026-01,Sunday,Weekend
+TXN100756,2026-01-11,Food & Dining,Lunch,29.0,UPI,2026-01,Sunday,Weekend
+TXN100210,2026-01-12,Entertainment,Games,45.82,Debit Card,2026-01,Monday,Weekday
+TXN100432,2026-01-12,Groceries,Dairy,130.39,Credit Card,2026-01,Monday,Weekday
+TXN100527,2026-01-12,Food & Dining,Restaurant,42.37,Credit Card,2026-01,Monday,Weekday
+TXN100403,2026-01-13,Personal Care,Gym,14.37,Net Banking,2026-01,Tuesday,Weekday
+TXN100621,2026-01-13,Personal Care,Gym,2.0,Net Banking,2026-01,Tuesday,Weekday
+TXN100315,2026-01-13,Food & Dining,Coffee,11.24,UPI,2026-01,Tuesday,Weekday
+TXN100082,2026-01-14,Transportation,Uber,18.57,Net Banking,2026-01,Wednesday,Weekday
+TXN100622,2026-01-15,Food & Dining,Restaurant,32.31,Cash,2026-01,Thursday,Weekday
+TXN100428,2026-01-15,Food & Dining,Restaurant,34.27,Net Banking,2026-01,Thursday,Weekday
+TXN100055,2026-01-15,Transportation,Uber,4.44,Credit Card,2026-01,Thursday,Weekday
+TXN100619,2026-01-16,Food & Dining,Fast food,3.05,Net Banking,2026-01,Friday,Weekday
+TXN100206,2026-01-16,Food & Dining,Lunch,28.84,Debit Card,2026-01,Friday,Weekday
+TXN100478,2026-01-16,Shopping,Clothing,73.7,UPI,2026-01,Friday,Weekday
+TXN100070,2026-01-16,Food & Dining,Restaurant,51.72,Credit Card,2026-01,Friday,Weekday
+TXN100167,2026-01-17,Healthcare,Lab test,114.12,Credit Card,2026-01,Saturday,Weekend
+TXN100713,2026-01-17,Entertainment,Streaming,55.61,Debit Card,2026-01,Saturday,Weekend
+TXN100338,2026-01-17,Shopping,Shoes,113.01,Debit Card,2026-01,Saturday,Weekend
+TXN100559,2026-01-19,Shopping,Shoes,46.44,Cash,2026-01,Monday,Weekday
+TXN100739,2026-01-19,Education,Books,133.67,Credit Card,2026-01,Monday,Weekday
+TXN100045,2026-01-19,Travel,Train,394.34,Net Banking,2026-01,Monday,Weekday
+TXN100259,2026-01-19,Food & Dining,Coffee,39.65,Net Banking,2026-01,Monday,Weekday
+TXN100339,2026-01-20,Healthcare,Doctor,115.32,Credit Card,2026-01,Tuesday,Weekday
+TXN100028,2026-01-20,Healthcare,Doctor,69.31,Debit Card,2026-01,Tuesday,Weekday
+TXN100281,2026-01-21,Healthcare,Pharmacy,73.13,Cash,2026-01,Wednesday,Weekday
+TXN100095,2026-01-21,Food & Dining,Restaurant,19.25,Cash,2026-01,Wednesday,Weekday
+TXN100848,2026-01-21,Food & Dining,Coffee,28.81,Credit Card,2026-01,Wednesday,Weekday
+TXN100923,2026-01-21,Shopping,Electronics,125.14,Debit Card,2026-01,Wednesday,Weekday
+TXN100702,2026-01-21,Transportation,Uber,12.83,Credit Card,2026-01,Wednesday,Weekday
+TXN100520,2026-01-21,Groceries,Dairy,63.14,UPI,2026-01,Wednesday,Weekday
+TXN100951,2026-01-22,Food & Dining,Fast food,7.88,UPI,2026-01,Thursday,Weekday
+TXN100898,2026-01-22,Food & Dining,Fast food,21.65,Debit Card,2026-01,Thursday,Weekday
+TXN100243,2026-01-22,Food & Dining,Restaurant,27.47,Cash,2026-01,Thursday,Weekday
+TXN100845,2026-01-24,Groceries,Dairy,72.32,Cash,2026-01,Saturday,Weekend
+TXN100893,2026-01-24,Food & Dining,Restaurant,24.32,Cash,2026-01,Saturday,Weekend
+TXN100064,2026-01-24,Healthcare,Pharmacy,65.23,UPI,2026-01,Saturday,Weekend
+TXN100525,2026-01-25,Groceries,Supermarket,92.92,Debit Card,2026-01,Sunday,Weekend
+TXN100312,2026-01-25,Transportation,Fuel,5.62,Credit Card,2026-01,Sunday,Weekend
+TXN100034,2026-01-25,Food & Dining,Lunch,39.13,Debit Card,2026-01,Sunday,Weekend
+TXN100704,2026-01-26,Food & Dining,Fast food,40.32,UPI,2026-01,Monday,Weekday
+TXN100789,2026-01-26,Food & Dining,Coffee,32.02,Debit Card,2026-01,Monday,Weekday
+TXN100040,2026-01-27,Shopping,Clothing,79.28,Cash,2026-01,Tuesday,Weekday
+TXN100841,2026-01-27,Bills & Utilities,Phone,80.81,Credit Card,2026-01,Tuesday,Weekday
+TXN100016,2026-01-28,Food & Dining,Restaurant,40.46,Debit Card,2026-01,Wednesday,Weekday
+TXN100692,2026-01-28,Transportation,Fuel,16.0,Credit Card,2026-01,Wednesday,Weekday
+TXN100734,2026-01-28,Groceries,Vegetables,75.62,Credit Card,2026-01,Wednesday,Weekday
+TXN100909,2026-01-28,Shopping,Clothing,88.22,UPI,2026-01,Wednesday,Weekday
+TXN100864,2026-01-29,Food & Dining,Lunch,61.44,Net Banking,2026-01,Thursday,Weekday
+TXN100373,2026-01-29,Bills & Utilities,Phone,80.34,Credit Card,2026-01,Thursday,Weekday
+TXN100225,2026-01-30,Bills & Utilities,Internet,145.05,UPI,2026-01,Friday,Weekday
+TXN100785,2026-01-30,Food & Dining,Coffee,8.54,Net Banking,2026-01,Friday,Weekday
+TXN100496,2026-01-31,Bills & Utilities,Electricity,101.86,Net Banking,2026-01,Saturday,Weekend
+TXN100593,2026-01-31,Travel,Flight,435.39,Credit Card,2026-01,Saturday,Weekend
+TXN100149,2026-02-01,Food & Dining,Coffee,64.08,UPI,2026-02,Sunday,Weekend
+TXN100468,2026-02-01,Miscellaneous,Donation,2.0,Debit Card,2026-02,Sunday,Weekend
+TXN100393,2026-02-01,Shopping,Electronics,80.87,Debit Card,2026-02,Sunday,Weekend
+TXN100116,2026-02-01,Miscellaneous,Gift,67.91,UPI,2026-02,Sunday,Weekend
+TXN100147,2026-02-02,Miscellaneous,Donation,52.7,Credit Card,2026-02,Monday,Weekday
+TXN100589,2026-02-02,Shopping,Clothing,38.81,Credit Card,2026-02,Monday,Weekday
+TXN100591,2026-02-03,Rent,Monthly rent,792.66,Debit Card,2026-02,Tuesday,Weekday
+TXN100724,2026-02-04,Shopping,Electronics,108.26,UPI,2026-02,Wednesday,Weekday
+TXN100696,2026-02-05,Food & Dining,Restaurant,17.88,UPI,2026-02,Thursday,Weekday
+TXN100583,2026-02-06,Groceries,Dairy,70.68,UPI,2026-02,Friday,Weekday
+TXN100680,2026-02-06,Travel,Train,273.19,Debit Card,2026-02,Friday,Weekday
+TXN100880,2026-02-06,Shopping,Electronics,88.51,Cash,2026-02,Friday,Weekday
+TXN100153,2026-02-06,Miscellaneous,Gift,19.81,Debit Card,2026-02,Friday,Weekday
+TXN100804,2026-02-07,Transportation,Metro,2.67,Net Banking,2026-02,Saturday,Weekend
+TXN100851,2026-02-07,Entertainment,Games,38.99,Credit Card,2026-02,Saturday,Weekend
+TXN100400,2026-02-08,Shopping,Shoes,58.53,Debit Card,2026-02,Sunday,Weekend
+TXN100099,2026-02-09,Shopping,Electronics,13.12,Cash,2026-02,Monday,Weekday
+TXN100618,2026-02-09,Food & Dining,Fast food,77.44,Credit Card,2026-02,Monday,Weekday
+TXN100444,2026-02-10,Entertainment,Movie,12.79,Debit Card,2026-02,Tuesday,Weekday
+TXN100900,2026-02-10,Food & Dining,Restaurant,28.03,UPI,2026-02,Tuesday,Weekday
+TXN100062,2026-02-10,Travel,Hotel,69.49,Credit Card,2026-02,Tuesday,Weekday
+TXN100324,2026-02-11,Bills & Utilities,Electricity,70.43,Debit Card,2026-02,Wednesday,Weekday
+TXN100443,2026-02-11,Travel,Flight,121.77,Cash,2026-02,Wednesday,Weekday
+TXN100363,2026-02-11,Miscellaneous,Gift,92.32,Credit Card,2026-02,Wednesday,Weekday
+TXN100220,2026-02-11,Bills & Utilities,Internet,127.25,Debit Card,2026-02,Wednesday,Weekday
+TXN100091,2026-02-12,Entertainment,Movie,11.07,Net Banking,2026-02,Thursday,Weekday
+TXN100068,2026-02-12,Miscellaneous,Gift,20.63,Credit Card,2026-02,Thursday,Weekday
+TXN100162,2026-02-13,Travel,Train,465.88,Debit Card,2026-02,Friday,Weekday
+TXN100341,2026-02-14,Entertainment,Streaming,57.4,Debit Card,2026-02,Saturday,Weekend
+TXN100849,2026-02-14,Food & Dining,Coffee,25.25,Debit Card,2026-02,Saturday,Weekend
+TXN100141,2026-02-14,Food & Dining,Fast food,49.69,UPI,2026-02,Saturday,Weekend
+TXN100334,2026-02-14,Transportation,Metro,4.41,Credit Card,2026-02,Saturday,Weekend
+TXN100714,2026-02-15,Education,Course,142.79,Credit Card,2026-02,Sunday,Weekend
+TXN100652,2026-02-15,Transportation,Fuel,10.21,Credit Card,2026-02,Sunday,Weekend
+TXN100628,2026-02-15,Groceries,Dairy,82.77,Cash,2026-02,Sunday,Weekend
+TXN100543,2026-02-15,Shopping,Electronics,45.22,Debit Card,2026-02,Sunday,Weekend
+TXN100039,2026-02-15,Transportation,Fuel,8.18,Credit Card,2026-02,Sunday,Weekend
+TXN100183,2026-02-16,Shopping,Shoes,80.67,Net Banking,2026-02,Monday,Weekday
+TXN100875,2026-02-16,Bills & Utilities,Internet,94.93,Credit Card,2026-02,Monday,Weekday
+TXN100965,2026-02-16,Food & Dining,Fast food,2.0,Credit Card,2026-02,Monday,Weekday
+TXN100358,2026-02-17,Food & Dining,Lunch,37.2,Cash,2026-02,Tuesday,Weekday
+TXN100638,2026-02-17,Food & Dining,Coffee,5.65,UPI,2026-02,Tuesday,Weekday
+TXN100209,2026-02-17,Healthcare,Lab test,101.91,Credit Card,2026-02,Tuesday,Weekday
+TXN100750,2026-02-17,Miscellaneous,Donation,57.96,Debit Card,2026-02,Tuesday,Weekday
+TXN100581,2026-02-17,Bills & Utilities,Internet,90.63,Credit Card,2026-02,Tuesday,Weekday
+TXN100817,2026-02-17,Shopping,Clothing,22.12,UPI,2026-02,Tuesday,Weekday
+TXN100343,2026-02-18,Food & Dining,Fast food,19.59,Credit Card,2026-02,Wednesday,Weekday
+TXN100290,2026-02-18,Transportation,Metro,10.1,Credit Card,2026-02,Wednesday,Weekday
+TXN100353,2026-02-18,Groceries,Supermarket,92.57,Credit Card,2026-02,Wednesday,Weekday
+TXN100853,2026-02-18,Entertainment,Games,41.04,Debit Card,2026-02,Wednesday,Weekday
+TXN100949,2026-02-18,Food & Dining,Fast food,5.86,UPI,2026-02,Wednesday,Weekday
+TXN100687,2026-02-18,Entertainment,Streaming,38.68,Cash,2026-02,Wednesday,Weekday
+TXN100085,2026-02-19,Personal Care,Salon,15.59,Credit Card,2026-02,Thursday,Weekday
+TXN100041,2026-02-19,Groceries,Vegetables,107.79,Credit Card,2026-02,Thursday,Weekday
+TXN100438,2026-02-20,Shopping,Electronics,21.84,Credit Card,2026-02,Friday,Weekday
+TXN100233,2026-02-21,Transportation,Uber,10.48,Net Banking,2026-02,Saturday,Weekend
+TXN100748,2026-02-21,Food & Dining,Coffee,46.21,Credit Card,2026-02,Saturday,Weekend
+TXN100985,2026-02-21,Food & Dining,Lunch,26.09,Cash,2026-02,Saturday,Weekend
+TXN100328,2026-02-21,Transportation,Metro,29.45,Debit Card,2026-02,Saturday,Weekend
+TXN100666,2026-02-22,Groceries,Vegetables,77.5,Debit Card,2026-02,Sunday,Weekend
+TXN100182,2026-02-22,Food & Dining,Lunch,12.66,Debit Card,2026-02,Sunday,Weekend
+TXN100626,2026-02-22,Travel,Hotel,582.21,UPI,2026-02,Sunday,Weekend
+TXN100610,2026-02-22,Food & Dining,Restaurant,42.94,Net Banking,2026-02,Sunday,Weekend
+TXN100178,2026-02-22,Transportation,Fuel,23.52,Net Banking,2026-02,Sunday,Weekend
+TXN100800,2026-02-23,Food & Dining,Coffee,43.32,Cash,2026-02,Monday,Weekday
+TXN100761,2026-02-23,Entertainment,Games,47.45,Cash,2026-02,Monday,Weekday
+TXN100333,2026-02-24,Groceries,Vegetables,50.47,Debit Card,2026-02,Tuesday,Weekday
+TXN100805,2026-02-24,Groceries,Vegetables,49.9,Debit Card,2026-02,Tuesday,Weekday
+TXN100165,2026-02-25,Food & Dining,Restaurant,43.71,UPI,2026-02,Wednesday,Weekday
+TXN100490,2026-02-26,Shopping,Clothing,94.09,Debit Card,2026-02,Thursday,Weekday
+TXN100053,2026-02-26,Miscellaneous,Gift,39.92,UPI,2026-02,Thursday,Weekday
+TXN100424,2026-02-26,Healthcare,Doctor,136.7,Debit Card,2026-02,Thursday,Weekday
+TXN100976,2026-02-26,Personal Care,Salon,15.09,Debit Card,2026-02,Thursday,Weekday
+TXN100365,2026-02-26,Entertainment,Games,33.02,UPI,2026-02,Thursday,Weekday
+TXN100844,2026-02-27,Miscellaneous,Other,38.84,Credit Card,2026-02,Friday,Weekday
+TXN100335,2026-02-27,Entertainment,Movie,36.26,Debit Card,2026-02,Friday,Weekday
+TXN100892,2026-02-27,Healthcare,Doctor,165.36,Debit Card,2026-02,Friday,Weekday
+TXN100030,2026-02-28,Shopping,Clothing,26.74,Credit Card,2026-02,Saturday,Weekend
+TXN100078,2026-02-28,Personal Care,Salon,2.05,Debit Card,2026-02,Saturday,Weekend
+TXN100592,2026-02-28,Travel,Flight,434.04,Credit Card,2026-02,Saturday,Weekend
+TXN100563,2026-02-28,Groceries,Vegetables,112.7,UPI,2026-02,Saturday,Weekend
+TXN100962,2026-02-28,Shopping,Clothing,54.66,Cash,2026-02,Saturday,Weekend
+TXN100344,2026-02-28,Groceries,Supermarket,102.03,Debit Card,2026-02,Saturday,Weekend
+TXN100227,2026-03-01,Travel,Hotel,339.31,UPI,2026-03,Sunday,Weekend
+TXN100181,2026-03-01,Transportation,Fuel,2.0,Credit Card,2026-03,Sunday,Weekend
+TXN100446,2026-03-01,Food & Dining,Fast food,18.17,Debit Card,2026-03,Sunday,Weekend
+TXN100606,2026-03-01,Food & Dining,Fast food,32.7,Credit Card,2026-03,Sunday,Weekend
+TXN100931,2026-03-01,Food & Dining,Restaurant,67.74,Debit Card,2026-03,Sunday,Weekend
+TXN100056,2026-03-01,Transportation,Fuel,17.14,UPI,2026-03,Sunday,Weekend
+TXN100639,2026-03-02,Entertainment,Movie,2.4,Credit Card,2026-03,Monday,Weekday
+TXN100557,2026-03-02,Entertainment,Streaming,47.12,Cash,2026-03,Monday,Weekday
+TXN100301,2026-03-03,Bills & Utilities,Phone,64.02,Debit Card,2026-03,Tuesday,Weekday
+TXN100472,2026-03-03,Food & Dining,Coffee,15.06,Debit Card,2026-03,Tuesday,Weekday
+TXN100832,2026-03-03,Food & Dining,Coffee,43.0,UPI,2026-03,Tuesday,Weekday
+TXN100268,2026-03-03,Food & Dining,Fast food,6.23,Debit Card,2026-03,Tuesday,Weekday
+TXN100256,2026-03-03,Food & Dining,Lunch,42.8,Debit Card,2026-03,Tuesday,Weekday
+TXN100554,2026-03-04,Entertainment,Streaming,30.55,Cash,2026-03,Wednesday,Weekday
+TXN100302,2026-03-04,Miscellaneous,Other,8.9,Credit Card,2026-03,Wednesday,Weekday
+TXN100871,2026-03-04,Shopping,Electronics,78.24,Cash,2026-03,Wednesday,Weekday
+TXN100540,2026-03-04,Personal Care,Gym,45.16,UPI,2026-03,Wednesday,Weekday
+TXN100194,2026-03-05,Food & Dining,Coffee,2.0,Cash,2026-03,Thursday,Weekday
+TXN100205,2026-03-05,Bills & Utilities,Internet,71.08,UPI,2026-03,Thursday,Weekday
+TXN100533,2026-03-05,Shopping,Clothing,2.0,Debit Card,2026-03,Thursday,Weekday
+TXN100188,2026-03-06,Entertainment,Games,29.03,Net Banking,2026-03,Friday,Weekday
+TXN100831,2026-03-06,Shopping,Electronics,101.54,Net Banking,2026-03,Friday,Weekday
+TXN100515,2026-03-06,Healthcare,Pharmacy,111.69,Cash,2026-03,Friday,Weekday
+TXN100948,2026-03-07,Groceries,Supermarket,97.21,Cash,2026-03,Saturday,Weekend
+TXN100643,2026-03-07,Education,Course,229.64,Credit Card,2026-03,Saturday,Weekend
+TXN100659,2026-03-07,Personal Care,Salon,64.72,UPI,2026-03,Saturday,Weekend
+TXN100523,2026-03-07,Shopping,Clothing,57.0,Debit Card,2026-03,Saturday,Weekend
+TXN100686,2026-03-08,Shopping,Electronics,81.53,UPI,2026-03,Sunday,Weekend
+TXN100250,2026-03-08,Food & Dining,Restaurant,27.31,UPI,2026-03,Sunday,Weekend
+TXN100677,2026-03-08,Bills & Utilities,Electricity,146.99,UPI,2026-03,Sunday,Weekend
+TXN100633,2026-03-08,Food & Dining,Coffee,17.39,Cash,2026-03,Sunday,Weekend
+TXN100080,2026-03-08,Personal Care,Salon,45.62,Debit Card,2026-03,Sunday,Weekend
+TXN100047,2026-03-09,Food & Dining,Lunch,6.75,Credit Card,2026-03,Monday,Weekday
+TXN100319,2026-03-09,Miscellaneous,Gift,2.21,UPI,2026-03,Monday,Weekday
+TXN100132,2026-03-10,Food & Dining,Coffee,3.49,Cash,2026-03,Tuesday,Weekday
+TXN100616,2026-03-11,Food & Dining,Fast food,17.65,UPI,2026-03,Wednesday,Weekday
+TXN100352,2026-03-12,Bills & Utilities,Internet,203.63,Credit Card,2026-03,Thursday,Weekday
+TXN100019,2026-03-12,Groceries,Dairy,67.69,Debit Card,2026-03,Thursday,Weekday
+TXN100404,2026-03-12,Food & Dining,Fast food,29.61,Debit Card,2026-03,Thursday,Weekday
+TXN100943,2026-03-12,Food & Dining,Fast food,18.95,Credit Card,2026-03,Thursday,Weekday
+TXN100541,2026-03-13,Shopping,Electronics,19.22,Cash,2026-03,Friday,Weekday
+TXN100371,2026-03-13,Groceries,Supermarket,48.45,Net Banking,2026-03,Friday,Weekday
+TXN100847,2026-03-13,Bills & Utilities,Internet,210.9,Debit Card,2026-03,Friday,Weekday
+TXN100337,2026-03-13,Groceries,Dairy,75.49,Cash,2026-03,Friday,Weekday
+TXN100437,2026-03-14,Groceries,Supermarket,66.29,UPI,2026-03,Saturday,Weekend
+TXN100681,2026-03-14,Transportation,Taxi,9.07,UPI,2026-03,Saturday,Weekend
+TXN100868,2026-03-15,Rent,Monthly rent,785.47,Credit Card,2026-03,Sunday,Weekend
+TXN100260,2026-03-15,Miscellaneous,Gift,16.03,Credit Card,2026-03,Sunday,Weekend
+TXN100954,2026-03-15,Shopping,Clothing,127.83,Debit Card,2026-03,Sunday,Weekend
+TXN100587,2026-03-15,Food & Dining,Lunch,21.76,Net Banking,2026-03,Sunday,Weekend
+TXN100646,2026-03-15,Shopping,Electronics,15.22,Credit Card,2026-03,Sunday,Weekend
+TXN100856,2026-03-15,Shopping,Clothing,94.09,Credit Card,2026-03,Sunday,Weekend
+TXN100501,2026-03-17,Shopping,Electronics,151.13,UPI,2026-03,Tuesday,Weekday
+TXN100311,2026-03-18,Transportation,Taxi,18.46,Cash,2026-03,Wednesday,Weekday
+TXN100309,2026-03-19,Food & Dining,Coffee,23.79,Credit Card,2026-03,Thursday,Weekday
+TXN100079,2026-03-19,Healthcare,Lab test,166.83,UPI,2026-03,Thursday,Weekday
+TXN100546,2026-03-19,Travel,Train,139.92,UPI,2026-03,Thursday,Weekday
+TXN100762,2026-03-19,Food & Dining,Fast food,28.8,Debit Card,2026-03,Thursday,Weekday
+TXN100571,2026-03-19,Food & Dining,Coffee,34.62,Cash,2026-03,Thursday,Weekday
+TXN100143,2026-03-20,Bills & Utilities,Internet,110.48,Credit Card,2026-03,Friday,Weekday
+TXN100798,2026-03-20,Transportation,Metro,7.23,Cash,2026-03,Friday,Weekday
+TXN100135,2026-03-20,Food & Dining,Fast food,15.69,Net Banking,2026-03,Friday,Weekday
+TXN100797,2026-03-20,Shopping,Shoes,25.22,Cash,2026-03,Friday,Weekday
+TXN100631,2026-03-21,Transportation,Fuel,27.13,Net Banking,2026-03,Saturday,Weekend
+TXN100271,2026-03-21,Personal Care,Gym,48.95,Debit Card,2026-03,Saturday,Weekend
+TXN100384,2026-03-21,Healthcare,Lab test,89.08,Credit Card,2026-03,Saturday,Weekend
+TXN100753,2026-03-22,Transportation,Fuel,16.53,UPI,2026-03,Sunday,Weekend
+TXN100098,2026-03-22,Entertainment,Streaming,24.92,Debit Card,2026-03,Sunday,Weekend
+TXN100427,2026-03-23,Entertainment,Movie,64.55,Cash,2026-03,Monday,Weekday
+TXN100381,2026-03-23,Shopping,Shoes,57.01,Credit Card,2026-03,Monday,Weekday
+TXN100086,2026-03-23,Entertainment,Movie,26.84,Debit Card,2026-03,Monday,Weekday
+TXN100489,2026-03-23,Groceries,Vegetables,41.81,UPI,2026-03,Monday,Weekday
+TXN100947,2026-03-25,Food & Dining,Fast food,28.19,Net Banking,2026-03,Wednesday,Weekday
+TXN100074,2026-03-25,Transportation,Metro,21.99,Credit Card,2026-03,Wednesday,Weekday
+TXN100092,2026-03-26,Food & Dining,Fast food,6.35,Debit Card,2026-03,Thursday,Weekday
+TXN100419,2026-03-26,Transportation,Uber,6.8,Debit Card,2026-03,Thursday,Weekday
+TXN100740,2026-03-27,Shopping,Clothing,42.42,UPI,2026-03,Friday,Weekday
+TXN100137,2026-03-27,Transportation,Fuel,6.92,Debit Card,2026-03,Friday,Weekday
+TXN100970,2026-03-27,Transportation,Taxi,7.4,Cash,2026-03,Friday,Weekday
+TXN100793,2026-03-27,Groceries,Supermarket,97.24,Debit Card,2026-03,Friday,Weekday
+TXN100252,2026-03-28,Food & Dining,Coffee,25.29,Net Banking,2026-03,Saturday,Weekend
+TXN100600,2026-03-28,Groceries,Vegetables,84.97,Cash,2026-03,Saturday,Weekend
+TXN100347,2026-03-28,Healthcare,Pharmacy,65.25,Credit Card,2026-03,Saturday,Weekend
+TXN100794,2026-03-29,Food & Dining,Restaurant,21.07,UPI,2026-03,Sunday,Weekend
+TXN100649,2026-03-29,Food & Dining,Lunch,26.2,UPI,2026-03,Sunday,Weekend
+TXN100995,2026-03-29,Transportation,Metro,15.75,Debit Card,2026-03,Sunday,Weekend
+TXN100362,2026-03-30,Shopping,Shoes,90.65,UPI,2026-03,Monday,Weekday
+TXN100208,2026-03-30,Shopping,Shoes,55.3,Credit Card,2026-03,Monday,Weekday
+TXN100904,2026-03-30,Groceries,Vegetables,98.25,UPI,2026-03,Monday,Weekday
+TXN100399,2026-03-30,Travel,Hotel,276.52,UPI,2026-03,Monday,Weekday
+TXN100502,2026-03-30,Healthcare,Lab test,60.9,UPI,2026-03,Monday,Weekday
+TXN100411,2026-03-31,Food & Dining,Fast food,17.56,Debit Card,2026-03,Tuesday,Weekday
+TXN100992,2026-03-31,Education,Course,60.99,Cash,2026-03,Tuesday,Weekday
+TXN100385,2026-03-31,Shopping,Shoes,99.8,Cash,2026-03,Tuesday,Weekday
+TXN100996,2026-03-31,Food & Dining,Fast food,20.85,Net Banking,2026-03,Tuesday,Weekday
+TXN100503,2026-04-01,Shopping,Shoes,109.22,Cash,2026-04,Wednesday,Weekday
+TXN100506,2026-04-01,Entertainment,Games,25.0,Credit Card,2026-04,Wednesday,Weekday
+TXN100123,2026-04-01,Food & Dining,Coffee,43.19,Debit Card,2026-04,Wednesday,Weekday
+TXN100726,2026-04-01,Entertainment,Games,79.87,UPI,2026-04,Wednesday,Weekday
+TXN100388,2026-04-01,Entertainment,Movie,69.42,Credit Card,2026-04,Wednesday,Weekday
+TXN100716,2026-04-03,Food & Dining,Restaurant,20.86,UPI,2026-04,Friday,Weekday
+TXN100497,2026-04-03,Transportation,Fuel,9.97,UPI,2026-04,Friday,Weekday
+TXN100187,2026-04-03,Groceries,Supermarket,101.03,Credit Card,2026-04,Friday,Weekday
+TXN100130,2026-04-04,Rent,Monthly rent,802.34,Debit Card,2026-04,Saturday,Weekend
+TXN100488,2026-04-05,Food & Dining,Lunch,9.14,Credit Card,2026-04,Sunday,Weekend
+TXN100386,2026-04-05,Education,Tuition,208.59,Credit Card,2026-04,Sunday,Weekend
+TXN100457,2026-04-06,Miscellaneous,Donation,42.64,Cash,2026-04,Monday,Weekday
+TXN100824,2026-04-06,Food & Dining,Lunch,47.75,Debit Card,2026-04,Monday,Weekday
+TXN100449,2026-04-07,Education,Books,120.64,Credit Card,2026-04,Tuesday,Weekday
+TXN100163,2026-04-07,Personal Care,Spa,4.22,UPI,2026-04,Tuesday,Weekday
+TXN100219,2026-04-07,Miscellaneous,Donation,45.26,Debit Card,2026-04,Tuesday,Weekday
+TXN100597,2026-04-08,Food & Dining,Coffee,15.25,UPI,2026-04,Wednesday,Weekday
+TXN100822,2026-04-09,Healthcare,Doctor,82.64,Cash,2026-04,Thursday,Weekday
+TXN100890,2026-04-10,Groceries,Dairy,92.99,Debit Card,2026-04,Friday,Weekday
+TXN100476,2026-04-10,Bills & Utilities,Internet,108.79,Debit Card,2026-04,Friday,Weekday
+TXN100213,2026-04-10,Entertainment,Movie,29.39,Credit Card,2026-04,Friday,Weekday
+TXN100492,2026-04-10,Personal Care,Salon,59.5,Cash,2026-04,Friday,Weekday
+TXN100421,2026-04-11,Groceries,Supermarket,53.75,Credit Card,2026-04,Saturday,Weekend
+TXN100407,2026-04-12,Transportation,Taxi,30.99,Net Banking,2026-04,Sunday,Weekend
+TXN100035,2026-04-12,Transportation,Uber,14.93,UPI,2026-04,Sunday,Weekend
+TXN100545,2026-04-12,Personal Care,Spa,59.14,Debit Card,2026-04,Sunday,Weekend
+TXN100751,2026-04-12,Personal Care,Salon,50.99,Debit Card,2026-04,Sunday,Weekend
+TXN100306,2026-04-13,Shopping,Shoes,75.28,UPI,2026-04,Monday,Weekday
+TXN100737,2026-04-13,Food & Dining,Lunch,33.73,Cash,2026-04,Monday,Weekday
+TXN100551,2026-04-13,Healthcare,Lab test,154.77,Credit Card,2026-04,Monday,Weekday
+TXN100911,2026-04-13,Groceries,Supermarket,51.86,UPI,2026-04,Monday,Weekday
+TXN100283,2026-04-13,Rent,Monthly rent,806.92,UPI,2026-04,Monday,Weekday
+TXN100440,2026-04-14,Transportation,Fuel,16.74,Cash,2026-04,Tuesday,Weekday
+TXN100367,2026-04-15,Miscellaneous,Donation,21.17,UPI,2026-04,Wednesday,Weekday
+TXN100899,2026-04-15,Entertainment,Movie,45.87,Debit Card,2026-04,Wednesday,Weekday
+TXN100720,2026-04-15,Transportation,Fuel,13.13,Credit Card,2026-04,Wednesday,Weekday
+TXN100858,2026-04-15,Entertainment,Games,13.52,Cash,2026-04,Wednesday,Weekday
+TXN100009,2026-04-15,Transportation,Taxi,30.81,Debit Card,2026-04,Wednesday,Weekday
+TXN100654,2026-04-15,Groceries,Dairy,116.36,Debit Card,2026-04,Wednesday,Weekday
+TXN100731,2026-04-16,Groceries,Vegetables,37.83,Debit Card,2026-04,Thursday,Weekday
+TXN100763,2026-04-16,Education,Books,215.63,Cash,2026-04,Thursday,Weekday
+TXN100736,2026-04-16,Entertainment,Streaming,21.06,Debit Card,2026-04,Thursday,Weekday
+TXN100745,2026-04-16,Shopping,Electronics,79.37,Debit Card,2026-04,Thursday,Weekday
+TXN100810,2026-04-17,Shopping,Shoes,40.86,Credit Card,2026-04,Friday,Weekday
+TXN100746,2026-04-17,Shopping,Clothing,6.09,Debit Card,2026-04,Friday,Weekday
+TXN100921,2026-04-17,Food & Dining,Restaurant,21.36,UPI,2026-04,Friday,Weekday
+TXN100665,2026-04-17,Groceries,Vegetables,58.96,Debit Card,2026-04,Friday,Weekday
+TXN100830,2026-04-17,Transportation,Taxi,9.16,Credit Card,2026-04,Friday,Weekday
+TXN100550,2026-04-17,Entertainment,Streaming,36.58,Debit Card,2026-04,Friday,Weekday
+TXN100957,2026-04-17,Education,Course,223.94,Cash,2026-04,Friday,Weekday
+TXN100760,2026-04-18,Groceries,Supermarket,46.08,Net Banking,2026-04,Saturday,Weekend
+TXN100755,2026-04-18,Healthcare,Pharmacy,37.21,Cash,2026-04,Saturday,Weekend
+TXN100201,2026-04-18,Transportation,Metro,14.69,Debit Card,2026-04,Saturday,Weekend
+TXN100604,2026-04-19,Groceries,Dairy,74.89,Credit Card,2026-04,Sunday,Weekend
+TXN100944,2026-04-19,Transportation,Fuel,12.07,Credit Card,2026-04,Sunday,Weekend
+TXN100809,2026-04-19,Miscellaneous,Gift,24.26,Net Banking,2026-04,Sunday,Weekend
+TXN100179,2026-04-19,Shopping,Shoes,32.83,Debit Card,2026-04,Sunday,Weekend
+TXN100425,2026-04-20,Food & Dining,Restaurant,16.73,UPI,2026-04,Monday,Weekday
+TXN100469,2026-04-20,Entertainment,Movie,14.82,Debit Card,2026-04,Monday,Weekday
+TXN100185,2026-04-20,Transportation,Taxi,2.0,Credit Card,2026-04,Monday,Weekday
+TXN100150,2026-04-21,Shopping,Electronics,41.66,UPI,2026-04,Tuesday,Weekday
+TXN100634,2026-04-21,Food & Dining,Restaurant,43.26,UPI,2026-04,Tuesday,Weekday
+TXN100323,2026-04-22,Transportation,Metro,16.26,Debit Card,2026-04,Wednesday,Weekday
+TXN100013,2026-04-22,Transportation,Taxi,3.37,Debit Card,2026-04,Wednesday,Weekday
+TXN100470,2026-04-22,Transportation,Taxi,16.34,Credit Card,2026-04,Wednesday,Weekday
+TXN100568,2026-04-23,Entertainment,Games,17.83,UPI,2026-04,Thursday,Weekday
+TXN100453,2026-04-23,Food & Dining,Lunch,13.01,UPI,2026-04,Thursday,Weekday
+TXN100454,2026-04-23,Food & Dining,Restaurant,48.74,Cash,2026-04,Thursday,Weekday
+TXN100509,2026-04-24,Food & Dining,Lunch,31.29,Debit Card,2026-04,Friday,Weekday
+TXN100483,2026-04-24,Food & Dining,Restaurant,20.46,Credit Card,2026-04,Friday,Weekday
+TXN100727,2026-04-24,Groceries,Supermarket,46.97,Debit Card,2026-04,Friday,Weekday
+TXN100001,2026-04-24,Food & Dining,Lunch,15.77,Credit Card,2026-04,Friday,Weekday
+TXN100580,2026-04-25,Personal Care,Gym,47.44,Debit Card,2026-04,Saturday,Weekend
+TXN100968,2026-04-25,Transportation,Fuel,18.23,Cash,2026-04,Saturday,Weekend
+TXN100168,2026-04-25,Groceries,Supermarket,175.23,Credit Card,2026-04,Saturday,Weekend
+TXN100083,2026-04-26,Healthcare,Doctor,48.43,Debit Card,2026-04,Sunday,Weekend
+TXN100011,2026-04-27,Shopping,Electronics,4.26,UPI,2026-04,Monday,Weekday
+TXN100133,2026-04-27,Bills & Utilities,Electricity,110.42,Cash,2026-04,Monday,Weekday
+TXN100906,2026-04-28,Food & Dining,Fast food,20.76,Cash,2026-04,Tuesday,Weekday
+TXN100664,2026-04-28,Shopping,Electronics,80.34,Debit Card,2026-04,Tuesday,Weekday
+TXN100109,2026-04-29,Transportation,Uber,33.76,Net Banking,2026-04,Wednesday,Weekday
+TXN100826,2026-04-29,Miscellaneous,Other,17.7,Cash,2026-04,Wednesday,Weekday
+TXN100873,2026-04-30,Transportation,Metro,9.21,UPI,2026-04,Thursday,Weekday
+TXN100802,2026-04-30,Education,Course,35.24,UPI,2026-04,Thursday,Weekday
+TXN100757,2026-05-01,Personal Care,Gym,14.64,Credit Card,2026-05,Friday,Weekday
+TXN100075,2026-05-01,Bills & Utilities,Internet,149.99,Debit Card,2026-05,Friday,Weekday
+TXN100121,2026-05-01,Entertainment,Movie,79.24,Cash,2026-05,Friday,Weekday
+TXN100257,2026-05-01,Entertainment,Streaming,36.32,Net Banking,2026-05,Friday,Weekday
+TXN100405,2026-05-01,Education,Course,215.26,Credit Card,2026-05,Friday,Weekday
+TXN100466,2026-05-02,Bills & Utilities,Phone,139.49,Debit Card,2026-05,Saturday,Weekend
+TXN100480,2026-05-04,Rent,Monthly rent,792.2,Credit Card,2026-05,Monday,Weekday
+TXN100245,2026-05-05,Shopping,Shoes,103.34,Cash,2026-05,Tuesday,Weekday
+TXN100244,2026-05-05,Education,Course,193.48,UPI,2026-05,Tuesday,Weekday
+TXN100020,2026-05-06,Food & Dining,Coffee,39.59,Credit Card,2026-05,Wednesday,Weekday
+TXN100456,2026-05-06,Food & Dining,Coffee,40.58,Cash,2026-05,Wednesday,Weekday
+TXN100487,2026-05-06,Food & Dining,Coffee,32.92,UPI,2026-05,Wednesday,Weekday
+TXN100637,2026-05-07,Miscellaneous,Donation,2.0,Credit Card,2026-05,Thursday,Weekday
+TXN100869,2026-05-07,Bills & Utilities,Phone,101.26,Credit Card,2026-05,Thursday,Weekday
+TXN100394,2026-05-07,Transportation,Metro,21.8,Credit Card,2026-05,Thursday,Weekday
+TXN100808,2026-05-07,Groceries,Dairy,61.88,UPI,2026-05,Thursday,Weekday
+TXN100192,2026-05-08,Food & Dining,Coffee,6.67,UPI,2026-05,Friday,Weekday
+TXN100158,2026-05-08,Food & Dining,Restaurant,20.22,Credit Card,2026-05,Friday,Weekday
+TXN100850,2026-05-08,Personal Care,Spa,46.76,Credit Card,2026-05,Friday,Weekday
+TXN100846,2026-05-09,Groceries,Vegetables,58.01,UPI,2026-05,Saturday,Weekend
+TXN100382,2026-05-09,Transportation,Fuel,9.54,Debit Card,2026-05,Saturday,Weekend
+TXN100918,2026-05-09,Bills & Utilities,Phone,64.82,Credit Card,2026-05,Saturday,Weekend
+TXN100027,2026-05-10,Personal Care,Salon,59.37,Credit Card,2026-05,Sunday,Weekend
+TXN100764,2026-05-10,Shopping,Electronics,125.47,Net Banking,2026-05,Sunday,Weekend
+TXN100017,2026-05-10,Bills & Utilities,Phone,166.56,UPI,2026-05,Sunday,Weekend
+TXN100560,2026-05-10,Shopping,Clothing,85.42,Cash,2026-05,Sunday,Weekend
+TXN100553,2026-05-11,Personal Care,Salon,11.21,UPI,2026-05,Monday,Weekday
+TXN100316,2026-05-11,Entertainment,Movie,38.97,Debit Card,2026-05,Monday,Weekday
+TXN100054,2026-05-12,Miscellaneous,Other,45.15,Net Banking,2026-05,Tuesday,Weekday
+TXN100504,2026-05-12,Transportation,Metro,17.13,Debit Card,2026-05,Tuesday,Weekday
+TXN100855,2026-05-12,Food & Dining,Coffee,4.54,Debit Card,2026-05,Tuesday,Weekday
+TXN100197,2026-05-13,Healthcare,Lab test,105.72,Debit Card,2026-05,Wednesday,Weekday
+TXN100029,2026-05-13,Transportation,Fuel,18.46,Credit Card,2026-05,Wednesday,Weekday
+TXN100529,2026-05-13,Transportation,Taxi,19.09,UPI,2026-05,Wednesday,Weekday
+TXN100719,2026-05-13,Transportation,Fuel,28.46,Cash,2026-05,Wednesday,Weekday
+TXN100722,2026-05-14,Healthcare,Lab test,66.63,UPI,2026-05,Thursday,Weekday
+TXN100265,2026-05-15,Food & Dining,Restaurant,44.66,Net Banking,2026-05,Friday,Weekday
+TXN100857,2026-05-16,Groceries,Dairy,79.81,UPI,2026-05,Saturday,Weekend
+TXN100024,2026-05-16,Groceries,Vegetables,128.69,Debit Card,2026-05,Saturday,Weekend
+TXN100694,2026-05-16,Transportation,Taxi,3.54,Credit Card,2026-05,Saturday,Weekend
+TXN100799,2026-05-16,Food & Dining,Restaurant,46.02,Credit Card,2026-05,Saturday,Weekend
+TXN100138,2026-05-17,Entertainment,Movie,15.08,UPI,2026-05,Sunday,Weekend
+TXN100459,2026-05-17,Groceries,Vegetables,96.1,Credit Card,2026-05,Sunday,Weekend
+TXN100838,2026-05-18,Bills & Utilities,Phone,109.18,Credit Card,2026-05,Monday,Weekday
+TXN100733,2026-05-18,Groceries,Dairy,96.3,Debit Card,2026-05,Monday,Weekday
+TXN100430,2026-05-19,Food & Dining,Coffee,37.75,Debit Card,2026-05,Tuesday,Weekday
+TXN100128,2026-05-19,Transportation,Metro,6.75,Credit Card,2026-05,Tuesday,Weekday
+TXN100567,2026-05-20,Shopping,Electronics,66.09,UPI,2026-05,Wednesday,Weekday
+TXN100239,2026-05-20,Miscellaneous,Donation,31.85,UPI,2026-05,Wednesday,Weekday
+TXN100310,2026-05-21,Miscellaneous,Other,52.91,Credit Card,2026-05,Thursday,Weekday
+TXN100836,2026-05-21,Miscellaneous,Gift,73.09,Credit Card,2026-05,Thursday,Weekday
+TXN100342,2026-05-21,Food & Dining,Restaurant,32.54,Credit Card,2026-05,Thursday,Weekday
+TXN100389,2026-05-21,Food & Dining,Lunch,8.19,UPI,2026-05,Thursday,Weekday
+TXN100007,2026-05-21,Transportation,Taxi,14.7,Cash,2026-05,Thursday,Weekday
+TXN100627,2026-05-21,Food & Dining,Restaurant,18.92,Credit Card,2026-05,Thursday,Weekday
+TXN100912,2026-05-22,Shopping,Clothing,89.8,Debit Card,2026-05,Friday,Weekday
+TXN100170,2026-05-22,Groceries,Dairy,101.54,Net Banking,2026-05,Friday,Weekday
+TXN100991,2026-05-23,Transportation,Fuel,24.49,Cash,2026-05,Saturday,Weekend
+TXN100934,2026-05-23,Food & Dining,Coffee,49.3,Credit Card,2026-05,Saturday,Weekend
+TXN100707,2026-05-24,Food & Dining,Restaurant,50.52,Credit Card,2026-05,Sunday,Weekend
+TXN100433,2026-05-24,Food & Dining,Fast food,46.83,Credit Card,2026-05,Sunday,Weekend
+TXN100530,2026-05-24,Transportation,Fuel,14.07,Credit Card,2026-05,Sunday,Weekend
+TXN100463,2026-05-25,Education,Course,183.89,UPI,2026-05,Monday,Weekday
+TXN100701,2026-05-25,Food & Dining,Restaurant,38.78,Credit Card,2026-05,Monday,Weekday
+TXN100211,2026-05-25,Food & Dining,Lunch,26.99,Credit Card,2026-05,Monday,Weekday
+TXN100296,2026-05-25,Transportation,Uber,8.28,UPI,2026-05,Monday,Weekday
+TXN100981,2026-05-25,Shopping,Clothing,157.66,Debit Card,2026-05,Monday,Weekday
+TXN100060,2026-05-26,Shopping,Electronics,86.27,Cash,2026-05,Tuesday,Weekday
+TXN100700,2026-05-26,Food & Dining,Coffee,39.64,Credit Card,2026-05,Tuesday,Weekday
+TXN100612,2026-05-26,Transportation,Metro,19.08,Credit Card,2026-05,Tuesday,Weekday
+TXN100676,2026-05-27,Food & Dining,Coffee,54.48,UPI,2026-05,Wednesday,Weekday
+TXN100455,2026-05-27,Shopping,Clothing,75.19,Credit Card,2026-05,Wednesday,Weekday
+TXN100361,2026-05-28,Groceries,Dairy,40.06,UPI,2026-05,Thursday,Weekday
+TXN100963,2026-05-28,Food & Dining,Fast food,24.04,Net Banking,2026-05,Thursday,Weekday
+TXN100120,2026-05-29,Groceries,Supermarket,83.45,Debit Card,2026-05,Friday,Weekday
+TXN100544,2026-05-29,Shopping,Shoes,200.33,Credit Card,2026-05,Friday,Weekday
+TXN100441,2026-05-29,Groceries,Supermarket,74.92,Debit Card,2026-05,Friday,Weekday
+TXN100644,2026-05-30,Food & Dining,Lunch,25.32,Net Banking,2026-05,Saturday,Weekend
+TXN100246,2026-05-30,Entertainment,Movie,28.36,UPI,2026-05,Saturday,Weekend
+TXN100180,2026-05-30,Food & Dining,Coffee,32.37,Cash,2026-05,Saturday,Weekend
+TXN100377,2026-05-31,Groceries,Dairy,105.63,Credit Card,2026-05,Sunday,Weekend
+TXN100103,2026-05-31,Food & Dining,Fast food,44.19,Debit Card,2026-05,Sunday,Weekend
+TXN100042,2026-05-31,Food & Dining,Restaurant,32.76,Credit Card,2026-05,Sunday,Weekend
+TXN100094,2026-06-01,Healthcare,Doctor,3.63,UPI,2026-06,Monday,Weekday
+TXN100110,2026-06-01,Personal Care,Salon,73.69,Credit Card,2026-06,Monday,Weekday
+TXN100191,2026-06-03,Food & Dining,Coffee,7.61,Credit Card,2026-06,Wednesday,Weekday
+TXN100742,2026-06-04,Miscellaneous,Gift,91.24,Credit Card,2026-06,Thursday,Weekday
+TXN100397,2026-06-04,Food & Dining,Restaurant,12.28,Credit Card,2026-06,Thursday,Weekday
+TXN100498,2026-06-05,Transportation,Taxi,24.07,Credit Card,2026-06,Friday,Weekday
+TXN100304,2026-06-05,Shopping,Clothing,83.51,Credit Card,2026-06,Friday,Weekday
+TXN100176,2026-06-05,Food & Dining,Lunch,25.84,Debit Card,2026-06,Friday,Weekday
+TXN100345,2026-06-06,Transportation,Fuel,2.0,Debit Card,2026-06,Saturday,Weekend
+TXN100741,2026-06-06,Entertainment,Movie,87.96,Debit Card,2026-06,Saturday,Weekend
+TXN100670,2026-06-06,Education,Tuition,194.12,UPI,2026-06,Saturday,Weekend
+TXN100843,2026-06-07,Food & Dining,Lunch,22.01,Net Banking,2026-06,Sunday,Weekend
+TXN100105,2026-06-07,Personal Care,Salon,77.2,Net Banking,2026-06,Sunday,Weekend
+TXN100547,2026-06-08,Healthcare,Lab test,12.75,Credit Card,2026-06,Monday,Weekday
+TXN100555,2026-06-08,Shopping,Electronics,25.1,Credit Card,2026-06,Monday,Weekday
+TXN100936,2026-06-08,Groceries,Dairy,20.26,Debit Card,2026-06,Monday,Weekday
+TXN100237,2026-06-08,Food & Dining,Lunch,15.04,UPI,2026-06,Monday,Weekday
+TXN100688,2026-06-08,Groceries,Dairy,55.95,Credit Card,2026-06,Monday,Weekday
+TXN100395,2026-06-09,Groceries,Vegetables,114.73,UPI,2026-06,Tuesday,Weekday
+TXN100295,2026-06-10,Bills & Utilities,Phone,101.34,Debit Card,2026-06,Wednesday,Weekday
+TXN100674,2026-06-10,Miscellaneous,Other,8.39,Cash,2026-06,Wednesday,Weekday
+TXN100195,2026-06-11,Entertainment,Movie,16.99,Cash,2026-06,Thursday,Weekday
+TXN100565,2026-06-12,Transportation,Fuel,42.6,Credit Card,2026-06,Friday,Weekday
+TXN100776,2026-06-13,Food & Dining,Lunch,44.79,UPI,2026-06,Saturday,Weekend
+TXN100773,2026-06-14,Shopping,Electronics,71.29,Credit Card,2026-06,Sunday,Weekend
+TXN100513,2026-06-14,Shopping,Shoes,106.28,Net Banking,2026-06,Sunday,Weekend
+TXN100729,2026-06-15,Transportation,Metro,17.56,Debit Card,2026-06,Monday,Weekday
+TXN100919,2026-06-15,Personal Care,Salon,42.71,UPI,2026-06,Monday,Weekday
+TXN100825,2026-06-15,Groceries,Dairy,98.06,Credit Card,2026-06,Monday,Weekday
+TXN100113,2026-06-15,Groceries,Dairy,65.92,Credit Card,2026-06,Monday,Weekday
+TXN100938,2026-06-16,Healthcare,Lab test,47.6,Debit Card,2026-06,Tuesday,Weekday
+TXN100499,2026-06-16,Groceries,Dairy,73.54,Cash,2026-06,Tuesday,Weekday
+TXN100460,2026-06-16,Food & Dining,Fast food,2.0,Credit Card,2026-06,Tuesday,Weekday
+TXN100018,2026-06-16,Transportation,Metro,13.22,Debit Card,2026-06,Tuesday,Weekday
+TXN100031,2026-06-16,Transportation,Taxi,29.04,UPI,2026-06,Tuesday,Weekday
+TXN100807,2026-06-17,Food & Dining,Lunch,39.33,Debit Card,2026-06,Wednesday,Weekday
+TXN100349,2026-06-17,Shopping,Electronics,31.55,Debit Card,2026-06,Wednesday,Weekday
+TXN100465,2026-06-17,Transportation,Metro,18.03,UPI,2026-06,Wednesday,Weekday
+TXN100833,2026-06-17,Shopping,Clothing,41.47,Credit Card,2026-06,Wednesday,Weekday
+TXN100012,2026-06-18,Entertainment,Movie,49.92,Net Banking,2026-06,Thursday,Weekday
+TXN100629,2026-06-19,Rent,Monthly rent,798.42,Debit Card,2026-06,Friday,Weekday
+TXN100675,2026-06-19,Healthcare,Lab test,81.54,UPI,2026-06,Friday,Weekday
+TXN100814,2026-06-19,Shopping,Shoes,44.2,Credit Card,2026-06,Friday,Weekday
+TXN100359,2026-06-20,Shopping,Electronics,32.55,Cash,2026-06,Saturday,Weekend
+TXN100792,2026-06-21,Transportation,Fuel,16.42,Credit Card,2026-06,Sunday,Weekend
+TXN100422,2026-06-21,Groceries,Supermarket,146.43,Debit Card,2026-06,Sunday,Weekend
+TXN100402,2026-06-21,Personal Care,Spa,28.1,Debit Card,2026-06,Sunday,Weekend
+TXN100531,2026-06-22,Healthcare,Doctor,103.74,Cash,2026-06,Monday,Weekday
+TXN100609,2026-06-22,Groceries,Dairy,98.71,Credit Card,2026-06,Monday,Weekday
+TXN100484,2026-06-23,Healthcare,Lab test,33.87,Debit Card,2026-06,Tuesday,Weekday
+TXN100969,2026-06-23,Transportation,Fuel,14.39,Credit Card,2026-06,Tuesday,Weekday
+TXN100069,2026-06-23,Shopping,Shoes,67.46,Credit Card,2026-06,Tuesday,Weekday
+TXN100485,2026-06-23,Rent,Monthly rent,805.43,Cash,2026-06,Tuesday,Weekday
+TXN100994,2026-06-24,Healthcare,Pharmacy,93.67,UPI,2026-06,Wednesday,Weekday
+TXN100471,2026-06-25,Food & Dining,Coffee,26.69,Cash,2026-06,Thursday,Weekday
+TXN100048,2026-06-25,Food & Dining,Fast food,45.15,Debit Card,2026-06,Thursday,Weekday
+TXN100623,2026-06-26,Education,Course,202.6,Credit Card,2026-06,Friday,Weekday
+TXN100473,2026-06-27,Groceries,Vegetables,19.11,UPI,2026-06,Saturday,Weekend
+TXN100518,2026-06-27,Healthcare,Lab test,79.88,Credit Card,2026-06,Saturday,Weekend
+TXN100322,2026-06-27,Shopping,Electronics,54.0,Debit Card,2026-06,Saturday,Weekend
+TXN100999,2026-06-27,Groceries,Dairy,62.65,Cash,2026-06,Saturday,Weekend
+TXN100924,2026-06-27,Transportation,Uber,3.27,Cash,2026-06,Saturday,Weekend
+TXN100959,2026-06-27,Miscellaneous,Other,48.62,UPI,2026-06,Saturday,Weekend
+TXN100014,2026-06-28,Transportation,Uber,18.44,Credit Card,2026-06,Sunday,Weekend
+TXN100036,2026-06-28,Shopping,Shoes,69.82,Cash,2026-06,Sunday,Weekend
+TXN100630,2026-06-28,Healthcare,Lab test,50.82,Debit Card,2026-06,Sunday,Weekend
+TXN100467,2026-06-29,Healthcare,Pharmacy,43.66,Cash,2026-06,Monday,Weekday
+TXN100574,2026-06-29,Transportation,Metro,17.03,Net Banking,2026-06,Monday,Weekday
+TXN100202,2026-06-29,Transportation,Metro,16.71,Cash,2026-06,Monday,Weekday
+TXN100368,2026-06-29,Shopping,Clothing,115.79,Debit Card,2026-06,Monday,Weekday
+TXN100221,2026-06-30,Groceries,Vegetables,68.53,Credit Card,2026-06,Tuesday,Weekday
+TXN100711,2026-06-30,Transportation,Uber,7.35,UPI,2026-06,Tuesday,Weekday
+TXN100409,2026-07-01,Miscellaneous,Other,37.85,Debit Card,2026-07,Wednesday,Weekday
+TXN100588,2026-07-01,Groceries,Supermarket,74.25,Cash,2026-07,Wednesday,Weekday
+TXN100651,2026-07-01,Shopping,Clothing,164.52,Net Banking,2026-07,Wednesday,Weekday
+TXN100390,2026-07-02,Groceries,Supermarket,102.26,Debit Card,2026-07,Thursday,Weekday
+TXN100305,2026-07-02,Food & Dining,Restaurant,26.73,Credit Card,2026-07,Thursday,Weekday
+TXN100186,2026-07-04,Healthcare,Lab test,9.04,Debit Card,2026-07,Saturday,Weekend
+TXN100317,2026-07-05,Bills & Utilities,Electricity,107.02,Debit Card,2026-07,Sunday,Weekend
+TXN100354,2026-07-05,Entertainment,Streaming,37.0,Debit Card,2026-07,Sunday,Weekend
+TXN100264,2026-07-06,Food & Dining,Fast food,41.83,UPI,2026-07,Monday,Weekday
+TXN100189,2026-07-06,Transportation,Fuel,7.84,Debit Card,2026-07,Monday,Weekday
+TXN100401,2026-07-06,Bills & Utilities,Phone,69.24,Cash,2026-07,Monday,Weekday
+TXN100348,2026-07-06,Transportation,Uber,3.99,Debit Card,2026-07,Monday,Weekday
+TXN100276,2026-07-07,Miscellaneous,Other,36.45,Cash,2026-07,Tuesday,Weekday
+TXN100447,2026-07-07,Groceries,Supermarket,55.69,Credit Card,2026-07,Tuesday,Weekday
+TXN100166,2026-07-07,Food & Dining,Fast food,47.65,UPI,2026-07,Tuesday,Weekday
+TXN100249,2026-07-07,Rent,Monthly rent,804.1,UPI,2026-07,Tuesday,Weekday
+TXN100668,2026-07-08,Entertainment,Movie,55.15,UPI,2026-07,Wednesday,Weekday
+TXN100766,2026-07-08,Shopping,Shoes,55.54,Net Banking,2026-07,Wednesday,Weekday
+TXN100566,2026-07-08,Food & Dining,Lunch,17.14,Credit Card,2026-07,Wednesday,Weekday
+TXN100325,2026-07-09,Food & Dining,Coffee,7.3,Debit Card,2026-07,Thursday,Weekday
+TXN100743,2026-07-09,Food & Dining,Fast food,7.36,UPI,2026-07,Thursday,Weekday
+TXN100215,2026-07-09,Healthcare,Doctor,87.16,Cash,2026-07,Thursday,Weekday
+TXN100728,2026-07-10,Education,Books,277.13,Credit Card,2026-07,Friday,Weekday
+TXN100360,2026-07-10,Transportation,Uber,7.14,Credit Card,2026-07,Friday,Weekday
+TXN100308,2026-07-11,Personal Care,Salon,54.65,Cash,2026-07,Saturday,Weekend
+TXN100340,2026-07-11,Transportation,Fuel,21.93,Debit Card,2026-07,Saturday,Weekend
+TXN100972,2026-07-12,Shopping,Shoes,66.29,Credit Card,2026-07,Sunday,Weekend
+TXN100477,2026-07-12,Transportation,Uber,9.06,Cash,2026-07,Sunday,Weekend
+TXN100818,2026-07-12,Bills & Utilities,Electricity,158.79,Credit Card,2026-07,Sunday,Weekend
+TXN100436,2026-07-13,Shopping,Electronics,126.45,Cash,2026-07,Monday,Weekday
+TXN100781,2026-07-13,Shopping,Clothing,45.34,Debit Card,2026-07,Monday,Weekday
+TXN100412,2026-07-13,Groceries,Vegetables,74.64,Debit Card,2026-07,Monday,Weekday
+TXN100885,2026-07-14,Food & Dining,Fast food,62.45,UPI,2026-07,Tuesday,Weekday
+TXN100214,2026-07-14,Entertainment,Streaming,74.5,Debit Card,2026-07,Tuesday,Weekday
+TXN100767,2026-07-14,Food & Dining,Lunch,13.43,Credit Card,2026-07,Tuesday,Weekday
+TXN100157,2026-07-14,Entertainment,Movie,36.79,Cash,2026-07,Tuesday,Weekday
+TXN100852,2026-07-15,Food & Dining,Fast food,29.06,Net Banking,2026-07,Wednesday,Weekday
+TXN100458,2026-07-15,Groceries,Dairy,115.64,Credit Card,2026-07,Wednesday,Weekday
+TXN100286,2026-07-15,Food & Dining,Lunch,50.28,Credit Card,2026-07,Wednesday,Weekday
+TXN100997,2026-07-16,Education,Course,186.07,Debit Card,2026-07,Thursday,Weekday
+TXN100336,2026-07-16,Personal Care,Gym,23.55,Debit Card,2026-07,Thursday,Weekday
+TXN100759,2026-07-17,Food & Dining,Lunch,21.93,Cash,2026-07,Friday,Weekday
+TXN100059,2026-07-17,Entertainment,Games,14.46,Credit Card,2026-07,Friday,Weekday
+TXN100429,2026-07-19,Food & Dining,Coffee,46.11,Debit Card,2026-07,Sunday,Weekend
+TXN100598,2026-07-19,Transportation,Metro,15.21,Credit Card,2026-07,Sunday,Weekend
+TXN100966,2026-07-19,Shopping,Shoes,24.1,UPI,2026-07,Sunday,Weekend
+TXN100672,2026-07-19,Groceries,Supermarket,70.19,Credit Card,2026-07,Sunday,Weekend
+TXN100015,2026-07-19,Food & Dining,Fast food,2.6,Credit Card,2026-07,Sunday,Weekend
+TXN100229,2026-07-20,Transportation,Taxi,3.14,Cash,2026-07,Monday,Weekday
+TXN100415,2026-07-20,Groceries,Dairy,104.51,Debit Card,2026-07,Monday,Weekday
+TXN100172,2026-07-20,Groceries,Dairy,71.93,Net Banking,2026-07,Monday,Weekday
+TXN100464,2026-07-20,Transportation,Uber,14.91,Debit Card,2026-07,Monday,Weekday
+TXN100691,2026-07-21,Bills & Utilities,Phone,68.06,UPI,2026-07,Tuesday,Weekday
+TXN100122,2026-07-21,Shopping,Shoes,83.75,Credit Card,2026-07,Tuesday,Weekday
+TXN100978,2026-07-21,Food & Dining,Lunch,43.07,Debit Card,2026-07,Tuesday,Weekday
+TXN100835,2026-07-21,Shopping,Electronics,77.97,Credit Card,2026-07,Tuesday,Weekday
+TXN100043,2026-07-22,Miscellaneous,Gift,39.44,Net Banking,2026-07,Wednesday,Weekday
+TXN100327,2026-07-22,Education,Course,279.63,UPI,2026-07,Wednesday,Weekday
+TXN100744,2026-07-22,Transportation,Metro,17.4,Cash,2026-07,Wednesday,Weekday
+TXN100282,2026-07-23,Miscellaneous,Other,72.54,Debit Card,2026-07,Thursday,Weekday
+TXN100495,2026-07-25,Shopping,Clothing,41.26,UPI,2026-07,Saturday,Weekend
+TXN100006,2026-07-25,Bills & Utilities,Electricity,105.33,Net Banking,2026-07,Saturday,Weekend
+TXN100289,2026-07-25,Food & Dining,Coffee,39.82,UPI,2026-07,Saturday,Weekend
+TXN100207,2026-07-27,Food & Dining,Restaurant,39.74,UPI,2026-07,Monday,Weekday
+TXN100177,2026-07-27,Transportation,Metro,25.94,UPI,2026-07,Monday,Weekday
+TXN100967,2026-07-27,Bills & Utilities,Internet,54.39,UPI,2026-07,Monday,Weekday
+TXN100803,2026-07-28,Food & Dining,Restaurant,9.14,Credit Card,2026-07,Tuesday,Weekday
+TXN100238,2026-07-28,Groceries,Vegetables,32.9,Credit Card,2026-07,Tuesday,Weekday
+TXN100369,2026-07-28,Healthcare,Lab test,5.86,Net Banking,2026-07,Tuesday,Weekday
+TXN100783,2026-07-28,Food & Dining,Fast food,26.11,Net Banking,2026-07,Tuesday,Weekday
+TXN100115,2026-07-29,Education,Course,249.03,Debit Card,2026-07,Wednesday,Weekday
+TXN100228,2026-07-29,Shopping,Shoes,50.99,Cash,2026-07,Wednesday,Weekday
+TXN100101,2026-07-30,Groceries,Supermarket,114.0,Net Banking,2026-07,Thursday,Weekday
+TXN100111,2026-07-30,Rent,Monthly rent,791.35,Debit Card,2026-07,Thursday,Weekday
+TXN100730,2026-07-31,Food & Dining,Lunch,19.44,UPI,2026-07,Friday,Weekday
+TXN100775,2026-07-31,Entertainment,Movie,66.86,Credit Card,2026-07,Friday,Weekday
+TXN100698,2026-07-31,Food & Dining,Fast food,19.49,Credit Card,2026-07,Friday,Weekday
+TXN100003,2026-08-01,Groceries,Supermarket,96.28,Credit Card,2026-08,Saturday,Weekend
+TXN100426,2026-08-01,Entertainment,Movie,57.36,Cash,2026-08,Saturday,Weekend
+TXN100285,2026-08-01,Entertainment,Games,129.9,Debit Card,2026-08,Saturday,Weekend
+TXN100709,2026-08-01,Shopping,Clothing,10.34,UPI,2026-08,Saturday,Weekend
+TXN100635,2026-08-01,Transportation,Taxi,23.21,UPI,2026-08,Saturday,Weekend
+TXN100725,2026-08-01,Entertainment,Games,140.4,Debit Card,2026-08,Saturday,Weekend
+TXN100114,2026-08-02,Education,Tuition,140.84,Cash,2026-08,Sunday,Weekend
+TXN100144,2026-08-02,Miscellaneous,Donation,4.96,Credit Card,2026-08,Sunday,Weekend
+TXN100299,2026-08-03,Shopping,Electronics,58.01,Debit Card,2026-08,Monday,Weekday
+TXN100572,2026-08-03,Groceries,Supermarket,95.67,Credit Card,2026-08,Monday,Weekday
+TXN100100,2026-08-04,Healthcare,Pharmacy,140.41,Credit Card,2026-08,Tuesday,Weekday
+TXN100486,2026-08-04,Food & Dining,Coffee,2.0,Debit Card,2026-08,Tuesday,Weekday
+TXN100052,2026-08-04,Shopping,Clothing,119.19,Net Banking,2026-08,Tuesday,Weekday
+TXN100723,2026-08-04,Food & Dining,Lunch,40.78,Cash,2026-08,Tuesday,Weekday
+TXN100146,2026-08-05,Healthcare,Lab test,100.44,UPI,2026-08,Wednesday,Weekday
+TXN100284,2026-08-05,Entertainment,Games,28.29,UPI,2026-08,Wednesday,Weekday
+TXN100230,2026-08-05,Shopping,Shoes,96.79,Credit Card,2026-08,Wednesday,Weekday
+TXN100273,2026-08-06,Bills & Utilities,Electricity,150.31,Credit Card,2026-08,Thursday,Weekday
+TXN100236,2026-08-06,Personal Care,Salon,86.19,UPI,2026-08,Thursday,Weekday
+TXN100961,2026-08-06,Bills & Utilities,Phone,14.72,Credit Card,2026-08,Thursday,Weekday
+TXN100396,2026-08-07,Shopping,Clothing,61.19,Credit Card,2026-08,Friday,Weekday
+TXN100613,2026-08-08,Shopping,Clothing,81.15,Credit Card,2026-08,Saturday,Weekend
+TXN100599,2026-08-08,Transportation,Metro,18.78,Credit Card,2026-08,Saturday,Weekend
+TXN100891,2026-08-08,Bills & Utilities,Internet,139.42,Credit Card,2026-08,Saturday,Weekend
+TXN100758,2026-08-09,Groceries,Vegetables,91.59,UPI,2026-08,Sunday,Weekend
+TXN100057,2026-08-10,Groceries,Vegetables,42.63,Debit Card,2026-08,Monday,Weekday
+TXN100346,2026-08-10,Shopping,Shoes,128.34,Net Banking,2026-08,Monday,Weekday
+TXN100510,2026-08-11,Transportation,Fuel,6.52,Debit Card,2026-08,Tuesday,Weekday
+TXN100331,2026-08-11,Personal Care,Gym,47.84,Credit Card,2026-08,Tuesday,Weekday
+TXN100842,2026-08-11,Groceries,Supermarket,66.85,UPI,2026-08,Tuesday,Weekday
+TXN100663,2026-08-12,Miscellaneous,Gift,28.94,UPI,2026-08,Wednesday,Weekday
+TXN100491,2026-08-12,Transportation,Uber,8.15,Debit Card,2026-08,Wednesday,Weekday
+TXN100076,2026-08-12,Travel,Flight,300.36,Debit Card,2026-08,Wednesday,Weekday
+TXN100549,2026-08-12,Shopping,Electronics,28.22,Credit Card,2026-08,Wednesday,Weekday
+TXN100526,2026-08-12,Groceries,Vegetables,88.16,Debit Card,2026-08,Wednesday,Weekday
+TXN100204,2026-08-13,Personal Care,Gym,43.92,Cash,2026-08,Thursday,Weekday
+TXN100754,2026-08-14,Groceries,Vegetables,96.89,Debit Card,2026-08,Friday,Weekday
+TXN100840,2026-08-14,Transportation,Uber,12.11,Debit Card,2026-08,Friday,Weekday
+TXN100174,2026-08-15,Bills & Utilities,Electricity,89.87,Credit Card,2026-08,Saturday,Weekend
+TXN100481,2026-08-15,Food & Dining,Fast food,4.65,Net Banking,2026-08,Saturday,Weekend
+TXN100655,2026-08-15,Food & Dining,Restaurant,37.6,Cash,2026-08,Saturday,Weekend
+TXN100548,2026-08-16,Food & Dining,Fast food,12.55,UPI,2026-08,Sunday,Weekend
+TXN100874,2026-08-16,Food & Dining,Fast food,3.9,UPI,2026-08,Sunday,Weekend
+TXN100987,2026-08-16,Groceries,Dairy,94.54,Credit Card,2026-08,Sunday,Weekend
+TXN100106,2026-08-17,Miscellaneous,Gift,27.23,Credit Card,2026-08,Monday,Weekday
+TXN100930,2026-08-17,Shopping,Electronics,118.04,UPI,2026-08,Monday,Weekday
+TXN100679,2026-08-18,Groceries,Vegetables,23.68,Net Banking,2026-08,Tuesday,Weekday
+TXN100862,2026-08-18,Shopping,Shoes,32.35,Cash,2026-08,Tuesday,Weekday
+TXN100596,2026-08-18,Miscellaneous,Other,24.86,UPI,2026-08,Tuesday,Weekday
+TXN100093,2026-08-18,Food & Dining,Lunch,51.56,Debit Card,2026-08,Tuesday,Weekday
+TXN100721,2026-08-18,Bills & Utilities,Phone,89.12,Net Banking,2026-08,Tuesday,Weekday
+TXN100169,2026-08-19,Entertainment,Games,38.64,Debit Card,2026-08,Wednesday,Weekday
+TXN100861,2026-08-19,Food & Dining,Coffee,11.58,Cash,2026-08,Wednesday,Weekday
+TXN100955,2026-08-20,Food & Dining,Fast food,53.46,Cash,2026-08,Thursday,Weekday
+TXN100784,2026-08-20,Bills & Utilities,Electricity,130.84,Credit Card,2026-08,Thursday,Weekday
+TXN100152,2026-08-20,Groceries,Vegetables,75.54,Debit Card,2026-08,Thursday,Weekday
+TXN100779,2026-08-20,Entertainment,Games,51.9,Debit Card,2026-08,Thursday,Weekday
+TXN100859,2026-08-21,Food & Dining,Lunch,44.24,Credit Card,2026-08,Friday,Weekday
+TXN100894,2026-08-21,Healthcare,Pharmacy,105.81,Credit Card,2026-08,Friday,Weekday
+TXN100482,2026-08-21,Shopping,Electronics,58.02,Net Banking,2026-08,Friday,Weekday
+TXN100657,2026-08-21,Groceries,Dairy,34.55,Credit Card,2026-08,Friday,Weekday
+TXN100332,2026-08-21,Shopping,Shoes,25.18,Net Banking,2026-08,Friday,Weekday
+TXN100521,2026-08-22,Entertainment,Games,10.96,Credit Card,2026-08,Saturday,Weekend
+TXN100829,2026-08-22,Healthcare,Pharmacy,2.84,UPI,2026-08,Saturday,Weekend
+TXN100125,2026-08-22,Transportation,Fuel,13.63,Debit Card,2026-08,Saturday,Weekend
+TXN100222,2026-08-22,Bills & Utilities,Internet,142.33,Credit Card,2026-08,Saturday,Weekend
+TXN100717,2026-08-22,Food & Dining,Restaurant,50.84,Net Banking,2026-08,Saturday,Weekend
+TXN100988,2026-08-23,Food & Dining,Restaurant,16.6,Debit Card,2026-08,Sunday,Weekend
+TXN100439,2026-08-23,Transportation,Fuel,5.46,Credit Card,2026-08,Sunday,Weekend
+TXN100695,2026-08-23,Rent,Monthly rent,793.18,Cash,2026-08,Sunday,Weekend
+TXN100896,2026-08-23,Miscellaneous,Gift,9.8,Debit Card,2026-08,Sunday,Weekend
+TXN100782,2026-08-24,Healthcare,Pharmacy,193.75,UPI,2026-08,Monday,Weekday
+TXN100791,2026-08-24,Food & Dining,Restaurant,30.63,Debit Card,2026-08,Monday,Weekday
+TXN100562,2026-08-24,Entertainment,Streaming,32.26,Cash,2026-08,Monday,Weekday
+TXN100796,2026-08-25,Food & Dining,Lunch,27.12,Debit Card,2026-08,Tuesday,Weekday
+TXN100124,2026-08-25,Transportation,Metro,23.86,Debit Card,2026-08,Tuesday,Weekday
+TXN100650,2026-08-26,Entertainment,Movie,80.8,Debit Card,2026-08,Wednesday,Weekday
+TXN100879,2026-08-26,Miscellaneous,Donation,57.89,Credit Card,2026-08,Wednesday,Weekday
+TXN100648,2026-08-26,Entertainment,Movie,40.12,Net Banking,2026-08,Wednesday,Weekday
+TXN100096,2026-08-26,Groceries,Supermarket,88.7,UPI,2026-08,Wednesday,Weekday
+TXN100008,2026-08-27,Food & Dining,Lunch,39.23,Cash,2026-08,Thursday,Weekday
+TXN100539,2026-08-28,Food & Dining,Restaurant,54.38,Debit Card,2026-08,Friday,Weekday
+TXN100313,2026-08-28,Food & Dining,Lunch,34.66,Credit Card,2026-08,Friday,Weekday
+TXN100058,2026-08-29,Transportation,Taxi,6.45,UPI,2026-08,Saturday,Weekend
+TXN100914,2026-08-29,Food & Dining,Coffee,37.96,Cash,2026-08,Saturday,Weekend
+TXN100534,2026-08-29,Food & Dining,Coffee,24.05,Credit Card,2026-08,Saturday,Weekend
+TXN100063,2026-08-29,Transportation,Taxi,2.0,Debit Card,2026-08,Saturday,Weekend
+TXN100902,2026-08-30,Entertainment,Movie,42.82,Cash,2026-08,Sunday,Weekend
+TXN100493,2026-08-30,Shopping,Electronics,96.05,Credit Card,2026-08,Sunday,Weekend
+TXN100033,2026-08-30,Transportation,Uber,10.67,Debit Card,2026-08,Sunday,Weekend
+TXN100391,2026-08-30,Shopping,Shoes,86.36,Cash,2026-08,Sunday,Weekend
+TXN100876,2026-08-30,Entertainment,Movie,98.33,Net Banking,2026-08,Sunday,Weekend
+TXN100528,2026-08-31,Shopping,Shoes,67.09,Credit Card,2026-08,Monday,Weekday
+TXN100708,2026-08-31,Bills & Utilities,Electricity,96.36,Debit Card,2026-08,Monday,Weekday
+TXN100274,2026-08-31,Shopping,Electronics,166.21,Debit Card,2026-08,Monday,Weekday
+TXN100771,2026-08-31,Food & Dining,Fast food,29.98,Cash,2026-08,Monday,Weekday
+TXN100445,2026-09-01,Personal Care,Salon,51.34,Credit Card,2026-09,Tuesday,Weekday
+TXN100827,2026-09-01,Bills & Utilities,Phone,76.98,Credit Card,2026-09,Tuesday,Weekday
+TXN100251,2026-09-01,Personal Care,Spa,34.63,Debit Card,2026-09,Tuesday,Weekday
+TXN100986,2026-09-01,Transportation,Uber,26.77,UPI,2026-09,Tuesday,Weekday
+TXN100732,2026-09-02,Shopping,Electronics,68.08,Debit Card,2026-09,Wednesday,Weekday
+TXN100939,2026-09-02,Miscellaneous,Gift,52.47,Credit Card,2026-09,Wednesday,Weekday
+TXN100979,2026-09-03,Bills & Utilities,Electricity,88.8,Credit Card,2026-09,Thursday,Weekday
+TXN100977,2026-09-03,Groceries,Vegetables,58.1,Cash,2026-09,Thursday,Weekday
+TXN100883,2026-09-04,Food & Dining,Fast food,27.4,Credit Card,2026-09,Friday,Weekday
+TXN100107,2026-09-04,Bills & Utilities,Internet,168.82,Credit Card,2026-09,Friday,Weekday
+TXN100926,2026-09-04,Miscellaneous,Gift,21.62,UPI,2026-09,Friday,Weekday
+TXN100038,2026-09-05,Education,Books,62.26,Debit Card,2026-09,Saturday,Weekend
+TXN100248,2026-09-05,Personal Care,Spa,77.3,UPI,2026-09,Saturday,Weekend
+TXN100067,2026-09-06,Groceries,Dairy,95.56,Cash,2026-09,Sunday,Weekend
+TXN100815,2026-09-07,Transportation,Metro,20.75,Net Banking,2026-09,Monday,Weekday
+TXN100632,2026-09-07,Food & Dining,Restaurant,35.35,UPI,2026-09,Monday,Weekday
+TXN100258,2026-09-08,Entertainment,Streaming,50.04,Credit Card,2026-09,Tuesday,Weekday
+TXN100292,2026-09-09,Education,Course,240.5,Credit Card,2026-09,Wednesday,Weekday
+TXN100161,2026-09-09,Entertainment,Games,27.03,Debit Card,2026-09,Wednesday,Weekday
+TXN100684,2026-09-09,Travel,Flight,521.39,Credit Card,2026-09,Wednesday,Weekday
+TXN100925,2026-09-09,Shopping,Electronics,97.74,Cash,2026-09,Wednesday,Weekday
+TXN100706,2026-09-10,Shopping,Shoes,73.11,Cash,2026-09,Thursday,Weekday
+TXN100903,2026-09-11,Transportation,Fuel,17.77,Cash,2026-09,Friday,Weekday
+TXN100984,2026-09-11,Food & Dining,Fast food,11.66,UPI,2026-09,Friday,Weekday
+TXN100479,2026-09-11,Food & Dining,Fast food,28.3,Credit Card,2026-09,Friday,Weekday
+TXN100297,2026-09-11,Entertainment,Streaming,10.7,Credit Card,2026-09,Friday,Weekday
+TXN100199,2026-09-11,Personal Care,Gym,3.4,UPI,2026-09,Friday,Weekday
+TXN100173,2026-09-12,Personal Care,Salon,31.2,Net Banking,2026-09,Saturday,Weekend
+TXN100435,2026-09-12,Food & Dining,Lunch,22.11,Cash,2026-09,Saturday,Weekend
+TXN100671,2026-09-12,Entertainment,Movie,54.35,Cash,2026-09,Saturday,Weekend
+TXN100582,2026-09-12,Food & Dining,Restaurant,34.71,Cash,2026-09,Saturday,Weekend
+TXN100872,2026-09-12,Groceries,Dairy,112.37,Debit Card,2026-09,Saturday,Weekend
+TXN100735,2026-09-12,Healthcare,Pharmacy,167.42,Debit Card,2026-09,Saturday,Weekend
+TXN100084,2026-09-13,Entertainment,Games,2.6,Debit Card,2026-09,Sunday,Weekend
+TXN100266,2026-09-13,Groceries,Dairy,34.23,Credit Card,2026-09,Sunday,Weekend
+TXN100517,2026-09-13,Food & Dining,Restaurant,62.88,Credit Card,2026-09,Sunday,Weekend
+TXN100641,2026-09-13,Food & Dining,Restaurant,29.64,UPI,2026-09,Sunday,Weekend
+TXN100314,2026-09-14,Education,Tuition,193.78,Net Banking,2026-09,Monday,Weekday
+TXN100920,2026-09-14,Groceries,Vegetables,101.18,UPI,2026-09,Monday,Weekday
+TXN100231,2026-09-15,Groceries,Supermarket,89.42,Credit Card,2026-09,Tuesday,Weekday
+TXN100021,2026-09-15,Food & Dining,Fast food,36.93,Credit Card,2026-09,Tuesday,Weekday
+TXN100357,2026-09-16,Entertainment,Movie,6.86,UPI,2026-09,Wednesday,Weekday
+TXN100768,2026-09-16,Food & Dining,Lunch,6.15,Cash,2026-09,Wednesday,Weekday
+TXN100002,2026-09-16,Entertainment,Movie,25.61,Debit Card,2026-09,Wednesday,Weekday
+TXN100171,2026-09-16,Groceries,Dairy,127.03,Debit Card,2026-09,Wednesday,Weekday
+TXN100255,2026-09-16,Transportation,Metro,2.0,Cash,2026-09,Wednesday,Weekday
